@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "fe03e0c5f3ea46c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a83ddb1223d49e5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b14067d61e2ecae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/technology/ai-trends.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ai-trends"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "524d57b9259805ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "795e373e7dd368d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf3245dfc06808a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "75ab4b33360fd23b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "75dd0d302b1ae412",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e63536dc5c34899e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a6b393a79834b20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3c10d3d2e3cc1fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for test"
+            }
+          },
+          {
+            "id": "721ae5d1cffb4aaa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from test"
+            }
+          },
+          {
+            "id": "ae54295d95d0a52c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8fdb85407d58f212",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/test.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of test"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0b14067d61e2ecae",
+  "lastOpenFiles": [
+    "public/tags/وب.html",
+    "public/tags/توسعه.html",
+    "public/tags/مصنوعی.html",
+    "public/tags/هوش.html",
+    "public/tags/سالم.html",
+    "public/tags/زندگی.html",
+    "public/tags/سبک.html",
+    "content/technology/web-development.md",
+    "content/technology/ai-trends.md",
+    "content/lifestyle/digital-minimalism.md",
+    "content/lifestyle/healthy-habits.md",
+    "content/lifestyle/travel-tips.md",
+    "content/weblog/2024-03-28.md",
+    "content/weblog/test.md",
+    "public/weblog/test-og-image.webp",
+    "public/weblog/test.html",
+    "public/weblog/index.html",
+    "public/weblog",
+    "content/weblog",
+    "content/index.md",
+    "public/test-og-image.webp",
+    "public/index-2-og-image.webp",
+    "public/index-1-og-image.webp"
+  ]
+}
