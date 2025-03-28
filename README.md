@@ -21,6 +21,21 @@ My [Quartz](https://github.com/jackyzha0/quartz) [weblog](https://mehrazino.gith
 - ایجاد چهارتا فولدر وبلاگ، صفحه درباره من، صفحه گفتارها، فولدر کتاب‌ها
 - کمی نوشتن صفحه گفتارها
 
-## Issues
+## Isuues
+
 - نماد ↩ خوب بر نمی‌گرده به اون پاورقی
 - خوب فارسی نشده
+- گراف تو هم تو هم
+
+
+## Inspiration
+
+- https://glossary.airbyte.com/
+  - گراف ثابت خوبی داره
+- https://ifard.ir/
+- https://www.gatekeeper.wiki/
+  - فهرست کارتی
+  - ویرایش صفحه در گیت‌هاب
+- https://docs.zen-browser.app/
+- https://quartz.eilleeenz.com/
+  - دکمه‌های باحالی داره
