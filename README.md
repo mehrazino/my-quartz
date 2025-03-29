@@ -24,8 +24,6 @@ My [Quartz](https://github.com/jackyzha0/quartz) [weblog](https://mehrazino.gith
 - لوگوی favicon
 - لوگوی تایتل وبسایت (ریسپانسیو)
 - تصویر OgImage
-- 
-- 
 
 ## Isuues
 
