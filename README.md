@@ -1,4 +1,4 @@
-My [Quartz](https://github.com/jackyzha0/quartz) [weblog](https://mehrazino.github.io/my-quartz).
+## My [Quartz](https://github.com/jackyzha0/quartz) [weblog](https://mehrazino.github.io/my-quartz).
 
 ## TODO
 
@@ -20,6 +20,10 @@ My [Quartz](https://github.com/jackyzha0/quartz) [weblog](https://mehrazino.gith
 - پیش نمایش لینک‌های داخلی فعلاً غیرفعال بشه
 - ایجاد چهارتا فولدر وبلاگ، صفحه درباره من، صفحه گفتارها، فولدر کتاب‌ها
 - کمی نوشتن صفحه گفتارها
+- پاراگراف‌هاش Justify بشه
+- لوگوی favicon
+- لوگوی تایتل وبسایت (ریسپانسیو)
+- تصویر OgImage
 
 ## Isuues
 
