@@ -1,5 +1,5 @@
 {
-  "showUnsupportedFiles": true,
+  "showUnsupportedFiles": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "content/weblog",
   "alwaysUpdateLinks": true

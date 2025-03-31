@@ -1,0 +1,78 @@
+---
+title: گفتارها
+description:
+date:
+lang:
+draft:
+enableToc:
+tags:
+cssclasses:
+socialDescription:
+image:
+cover:
+socialImage:
+aliases:
+---
+**بعضی** از بریده کلام‌ها و اشعار برگزیده من. [^1]
+
+<br>
+
+<br>
+
+---
+
+>بشکنی ای قلم، ای دست اگر - پیچی از خدمت محرومان سر  
+
+>این شعاریست که دادم هستم - روی این قول شرف تا آخر  
+
+> — محمدعلی افراشته
+
+  
+
+>چه فکر کنید که می‌توانید یا فکر کنید نمی‌توانید، در هر صورت، حق با شماست.
+
+> — هنری فورد
+
+  
+
+> The most dangerous man to any government is the man who is able to think things out for himself, without regard to the prevailing superstitions and taboos. Almost inevitably he comes to the conclusion that the government he lives under is dishonest, insane and intolerable, and so, if he is **romantic**, he tries to change it. And even if he is not romantic personally he is very apt to spread discontent among those who are.
+
+> ― H.L. Mencken
+
+  
+
+> The most dangerous man to any government is the man who is able to think things out for himself, without regard to the prevailing superstitions and taboos. Almost inevitably he comes to the conclusion that the government he lives under is dishonest, insane and intolerable, and so, if he is **romantic**, he tries to change it. And even if he is not romantic personally he is very apt to spread discontent among those who are.
+
+> ― H.L. Mencken
+
+  
+
+> The most dangerous man to any government is the man who is able to think things out for himself, without regard to the prevailing superstitions and taboos. Almost inevitably he comes to the conclusion that the government he lives under is dishonest, insane and intolerable, and so, if he is **romantic**, he tries to change it. And even if he is not romantic personally he is very apt to spread discontent among those who are.
+
+> ― H.L. Mencken
+
+  
+
+> The most dangerous man to any government is the man who is able to think things out for himself, without regard to the prevailing superstitions and taboos. Almost inevitably he comes to the conclusion that the government he lives under is dishonest, insane and intolerable, and so, if he is **romantic**, he tries to change it. And even if he is not romantic personally he is very apt to spread discontent among those who are.
+
+> ― H.L. Mencken
+
+  
+
+> The most dangerous man to any government is the man who is able to think things out for himself, without regard to the prevailing superstitions and taboos. Almost inevitably he comes to the conclusion that the government he lives under is dishonest, insane and intolerable, and so, if he is **romantic**, he tries to change it. And even if he is not romantic personally he is very apt to spread discontent among those who are.
+
+> ― H.L. Mencken
+
+  
+
+> The most dangerous man to any government is the man who is able to think things out for himself, without regard to the prevailing superstitions and taboos. Almost inevitably he comes to the conclusion that the government he lives under is dishonest, insane and intolerable, and so, if he is **romantic**, he tries to change it. And even if he is not romantic personally he is very apt to spread discontent among those who are.
+
+> ― H.L. Mencken
+
+  
+
+## test
+
+  
+
+[^1]: خطاب به خودم، برای یادآوری. **اینجا** بدون توجه به نام گوینده و نیتش از اون گفتار. (لازم می‌بینم به این اشاره کنم که من با این فکر مخالفم که نام اولین گوینده‌ی هر حرفی باید به اون حرف تا ابد متصل باشه و **همیشه** **حتماً** باهاش ذکر بشه. با این موافق نیستم که گفتارها رو دارایی ابدی **نخستین** گوینده‌ش بدونیم. حتی درمورد **اشعار** که به هر حال کلامی هست به نوعی جزء **هنر** شناخته میشه، بسیاری از شاعران مشهور، اشعار شاعران دیگه رو در شعر خودشون (گاهی حتی بدون اشاره به اسم اون شاعر) عیناً میارن (که بهش اصطلاحاً **«تضمین»** میگیم و جزء آرایه‌های ادبی هم محسوب میشه). ضمناً فردی ممکن الان حرفی رو بزنه که ندونه قبلاً توسط فرد معروفی گفته شده، ولی نیت و منظوری متفاوت با اون گوینده‌ی قبلی داشته باشه. مثلاً شخصیت A ممکنه حرفی بزنه که قبلاً از شخصیتی منفی و معروف به نام X گفته شده، و این برداشت بشه که پس این فرد A هم **حتماً** با نیت و افکار اون شخصیت منفی X موافقه و یا در مسیر اون شخصیت منفیه، در صورتی که این‌گونه نیست. ارزش یک حرف، لزوماً وابسته به گوینده‌ش نیست. البته که باید مراقب بود که هر کسی که حرفی درست می‌زنه، لزوماً نیت درستی هم از گفتن اون حرف نداره. هر کسی می‌تونه حرفی بزنه، بدون اینکه حتماً بهش اعتقاد قلبی داشته باشه. اما برای اینکه این آزادی رو به خواننده بدم که اگه خواست، بتونه سریع بفهمه نام خواننده‌ش کیه (تا شاید بخواد بیشتر گوینده‌‌ش رو بشناسه یا حرف‌های دیگه‌ش رو هم بخونه)، روی هر گفتار اگه کلیک کنید، نام انتسابی گوینده‌ش نمایش داده میشه).

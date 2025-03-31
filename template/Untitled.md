@@ -15,6 +15,3 @@ aliases:
 ---
 
 ## 
-[[about]]
-
-[[quotes]]

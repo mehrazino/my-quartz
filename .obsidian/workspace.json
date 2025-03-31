@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/technology/ai-trends.md",
+                "file": "content/quotes.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "ai-trends"
+              "title": "quotes"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/test.md",
+                "file": "content/quotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for test"
+              "title": "Backlinks for quotes"
             }
           },
           {
@@ -160,7 +160,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -171,26 +170,30 @@
   },
   "active": "0b14067d61e2ecae",
   "lastOpenFiles": [
+    "content/index.md",
+    "content/about.md",
+    "content/quotes.md",
+    "public/about-og-image.webp",
+    "public/quotes.html",
+    "public/about.html",
+    "content/weblog/test.md",
+    "content/books",
+    "content/weblog/Untitled.md",
+    "Untitled",
+    "template/Untitled.md",
+    "template",
+    "content/technology/ai-trends.md",
     "public/tags/وب.html",
     "public/tags/توسعه.html",
     "public/tags/مصنوعی.html",
     "public/tags/هوش.html",
     "public/tags/سالم.html",
-    "public/tags/زندگی.html",
-    "public/tags/سبک.html",
     "content/technology/web-development.md",
-    "content/technology/ai-trends.md",
     "content/lifestyle/digital-minimalism.md",
     "content/lifestyle/healthy-habits.md",
     "content/lifestyle/travel-tips.md",
     "content/weblog/2024-03-28.md",
-    "content/weblog/test.md",
     "public/weblog/test-og-image.webp",
-    "public/weblog/test.html",
-    "public/weblog/index.html",
-    "public/weblog",
-    "content/weblog",
-    "content/index.md",
     "public/test-og-image.webp",
     "public/index-2-og-image.webp",
     "public/index-1-og-image.webp"

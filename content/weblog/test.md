@@ -1,18 +1,17 @@
 ---
-title: Welcome to Quartz
----
----
 title: پیش‌نمایش و تست سازگاری
-aliases:
-  - پیش‌نمایش و تست سازگاری
-date: 2024-09-06
-draft: false
-status: 
-parent: 
-order: 
-image: 
-tags: 
 description:
+date:
+lang:
+draft:
+enableToc:
+tags:
+cssclasses:
+socialDescription:
+image:
+cover:
+socialImage:
+aliases:
 ---
 📁 [فایل اصلی](https://github.com/fardm/quartz/blob/v4/content/elements.md)
 
