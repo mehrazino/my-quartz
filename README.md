@@ -1,4 +1,4 @@
-## My [Quartz](https://github.com/jackyzha0/quartz) [weblog](https://mehrazino.github.io/my- [ ]quartz).
+## My [Quartz](https://github.com/jackyzha0/quartz) [weblog](https://mehrazino.github.io/my-quartz).
 
 ## TODO
 
@@ -42,7 +42,7 @@
 - [ ] https://www.gatekeeper.wiki/
   - [ ] فهرست کارتی
   - [ ] ویرایش صفحه در گیت‌هاب
-- [ ] https://docs.zen- [ ]browser.app/
+- [ ] https://docs.zen-browser.app/
 - [ ] https://quartz.eilleeenz.com/
   - [ ] دکمه‌های باحالی داره
 	  - [ ] دکمه صفحه تصادفی
