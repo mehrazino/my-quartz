@@ -12,10 +12,12 @@ import { concatenateResources } from "../../util/resources"
 interface TagContentOptions {
   sort?: SortFn
   numPages: number
+  showItemCount: boolean
 }
 
 const defaultOptions: TagContentOptions = {
   numPages: 10,
+  showItemCount: false,
 }
 
 export default ((opts?: Partial<TagContentOptions>) => {
@@ -86,20 +88,22 @@ export default ((opts?: Partial<TagContentOptions>) => {
                   </h2>
                   {content && <p>{content}</p>}
                   <div class="page-listing">
-                    <p>
-                      {i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}
-                      {pages.length > options.numPages && (
-                        <>
-                          {" "}
-                          <span>
-                            {i18n(cfg.locale).pages.tagContent.showingFirst({
-                              count: options.numPages,
-                            })}
-                          </span>
-                        </>
-                      )}
-                    </p>
-                    <PageList limit={options.numPages} {...listProps} sort={options?.sort} />
+                    {options.showItemCount && (
+                      <p>
+                        {i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}
+                        {pages.length > options.numPages && (
+                          <>
+                            {" "}
+                            <span>
+                              {i18n(cfg.locale).pages.tagContent.showingFirst({
+                                count: options.numPages,
+                              })}
+                            </span>
+                          </>
+                        )}
+                      </p>
+                    )}
+                    <PageList limit={options.numPages} {...listProps} sort={options?.sort} showDate={false} />
                   </div>
                 </div>
               )
@@ -118,9 +122,11 @@ export default ((opts?: Partial<TagContentOptions>) => {
         <div class="popover-hint">
           <article class={classes}>{content}</article>
           <div class="page-listing">
-            <p>{i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}</p>
+            {options.showItemCount && (
+              <p>{i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}</p>
+            )}
             <div>
-              <PageList {...listProps} sort={options?.sort} />
+              <PageList {...listProps} sort={options?.sort} showDate={false} />
             </div>
           </div>
         </div>
