@@ -2,5 +2,6 @@
   "showUnsupportedFiles": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "content/weblog",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": true
 }

@@ -13,8 +13,6 @@ cover:
 socialImage:
 aliases:
 ---
+[[درباره|درباره من]]
 
-## 
-[[about]]
-
-[[quotes]]
+[[گفتارها]]

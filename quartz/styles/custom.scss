@@ -2,3 +2,36 @@
 
 // put your custom CSS here!
 
+h2#footnote-label{
+	visibility: hidden;
+}
+ 
+h2#footnote-label::after{
+	content: "پاورقی";
+	visibility: visible;
+	display: block;
+	direction: rtl !important;
+	font-size: 1.4rem;
+	border-bottom: 1px solid var(--lightgray);     
+	color: var(--darkgray);             
+}
+
+.github-link {
+    color: hsl(0, 0%, 50%) !important;
+    text-decoration: none !important;
+}
+
+.telegram-link {
+    color: hsl(211, 100%, 50%);
+    text-decoration: none;
+}
+
+.github-link:hover {
+    color: hsl(0, 0%, 50%) !important;
+    text-decoration: none !important;
+}
+
+.telegram-link:hover {
+    color: hsl(211, 100%, 50%) !important;
+    text-decoration: none !important;
+}

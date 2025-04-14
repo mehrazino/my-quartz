@@ -16,10 +16,10 @@ export default ((opts?: Options) => {
         <div style={{ textAlign: 'center' }}>
           <ul style={{ display: 'inline-flex', gap: '1rem', justifyContent: 'center', padding: 0 }}>
             <li style={{ listStyle: 'none' }}>
-              <a href="https://github.com">GitHub</a>
+              <a href="https://github.com/mehrazino">گیت‌هاب من</a>
             </li>
             <li style={{ listStyle: 'none' }}>
-              <a href="https://telegram.me/Mehraz_Logs">Telegram</a>
+              <a href="https://telegram.me/Mehraz_Logs">چنل تلگرام من</a>
             </li>
           </ul>
         </div>

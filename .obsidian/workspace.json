@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0b14067d61e2ecae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
             "id": "922d5d72e04fab92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,8 +171,14 @@
   },
   "active": "922d5d72e04fab92",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "content/کتاب‌ها",
+    "public/کتاب‌ها",
+    "content/گفتارها.md",
+    "public/وبلاگ/test.html",
+    "public/وبلاگ/index.html",
+    "public/وبلاگ",
     "README.md",
+    "conflict-files-obsidian-git.md",
     "content/quotes.md",
     "content/index.md",
     "content/about.md",
@@ -202,10 +193,6 @@
     "template",
     "content/technology/ai-trends.md",
     "public/tags/وب.html",
-    "public/tags/توسعه.html",
-    "public/tags/مصنوعی.html",
-    "public/tags/هوش.html",
-    "public/tags/سالم.html",
     "content/technology/web-development.md",
     "content/lifestyle/digital-minimalism.md",
     "content/lifestyle/healthy-habits.md",
