@@ -1,0 +1,168 @@
+@font-face {
+    font-family: 'Artifex Hand CF';
+    src: url('ArtifexHandCF-Italic.eot');
+    src: local('Artifex Hand CF Italic'), local('ArtifexHandCF-Italic'),
+        url('ArtifexHandCF-Italic.eot?#iefix') format('embedded-opentype'),
+        url('ArtifexHandCF-Italic.woff2') format('woff2'),
+        url('ArtifexHandCF-Italic.woff') format('woff'),
+        url('ArtifexHandCF-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Artifex Hand CF';
+    src: url('ArtifexHandCF-ExtLtIta.eot');
+    src: local('Artifex Hand CF ExtLt Ita'), local('ArtifexHandCF-ExtLtIta'),
+        url('ArtifexHandCF-ExtLtIta.eot?#iefix') format('embedded-opentype'),
+        url('ArtifexHandCF-ExtLtIta.woff2') format('woff2'),
+        url('ArtifexHandCF-ExtLtIta.woff') format('woff'),
+        url('ArtifexHandCF-ExtLtIta.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Artifex Hand CF';
+    src: url('ArtifexHandCF-BoldItalic.eot');
+    src: local('Artifex Hand CF Bold Italic'), local('ArtifexHandCF-BoldItalic'),
+        url('ArtifexHandCF-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('ArtifexHandCF-BoldItalic.woff2') format('woff2'),
+        url('ArtifexHandCF-BoldItalic.woff') format('woff'),
+        url('ArtifexHandCF-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Artifex Hand CF';
+    src: url('ArtifexHandCF-ExtraBold.eot');
+    src: local('Artifex Hand CF ExtraBold'), local('ArtifexHandCF-ExtraBold'),
+        url('ArtifexHandCF-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('ArtifexHandCF-ExtraBold.woff2') format('woff2'),
+        url('ArtifexHandCF-ExtraBold.woff') format('woff'),
+        url('ArtifexHandCF-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Artifex Hand CF';
+    src: url('ArtifexHandCF-ExtraLight.eot');
+    src: local('Artifex Hand CF ExtraLight'), local('ArtifexHandCF-ExtraLight'),
+        url('ArtifexHandCF-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('ArtifexHandCF-ExtraLight.woff2') format('woff2'),
+        url('ArtifexHandCF-ExtraLight.woff') format('woff'),
+        url('ArtifexHandCF-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Artifex Hand CF';
+    src: url('ArtifexHandCF-Bold.eot');
+    src: local('Artifex Hand CF Bold'), local('ArtifexHandCF-Bold'),
+        url('ArtifexHandCF-Bold.eot?#iefix') format('embedded-opentype'),
+        url('ArtifexHandCF-Bold.woff2') format('woff2'),
+        url('ArtifexHandCF-Bold.woff') format('woff'),
+        url('ArtifexHandCF-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Artifex Hand CF';
+    src: url('ArtifexHandCF-Light.eot');
+    src: local('Artifex Hand CF Light'), local('ArtifexHandCF-Light'),
+        url('ArtifexHandCF-Light.eot?#iefix') format('embedded-opentype'),
+        url('ArtifexHandCF-Light.woff2') format('woff2'),
+        url('ArtifexHandCF-Light.woff') format('woff'),
+        url('ArtifexHandCF-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Artifex Hand CF';
+    src: url('ArtifexHandCF-DemiBoldItalic.eot');
+    src: local('Artifex Hand CF DemBd Ita'), local('ArtifexHandCF-DemiBoldItalic'),
+        url('ArtifexHandCF-DemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('ArtifexHandCF-DemiBoldItalic.woff2') format('woff2'),
+        url('ArtifexHandCF-DemiBoldItalic.woff') format('woff'),
+        url('ArtifexHandCF-DemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Artifex Hand CF';
+    src: url('ArtifexHandCF-BookItalic.eot');
+    src: local('Artifex Hand CF Book Italic'), local('ArtifexHandCF-BookItalic'),
+        url('ArtifexHandCF-BookItalic.eot?#iefix') format('embedded-opentype'),
+        url('ArtifexHandCF-BookItalic.woff2') format('woff2'),
+        url('ArtifexHandCF-BookItalic.woff') format('woff'),
+        url('ArtifexHandCF-BookItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Artifex Hand CF';
+    src: url('ArtifexHandCF-LightItalic.eot');
+    src: local('Artifex Hand CF Light Italic'), local('ArtifexHandCF-LightItalic'),
+        url('ArtifexHandCF-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('ArtifexHandCF-LightItalic.woff2') format('woff2'),
+        url('ArtifexHandCF-LightItalic.woff') format('woff'),
+        url('ArtifexHandCF-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Artifex Hand CF';
+    src: url('ArtifexHandCF-Book.eot');
+    src: local('Artifex Hand CF Book'), local('ArtifexHandCF-Book'),
+        url('ArtifexHandCF-Book.eot?#iefix') format('embedded-opentype'),
+        url('ArtifexHandCF-Book.woff2') format('woff2'),
+        url('ArtifexHandCF-Book.woff') format('woff'),
+        url('ArtifexHandCF-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Artifex Hand CF';
+    src: url('ArtifexHandCF-ExtraBoldItalic.eot');
+    src: local('Artifex Hand CF Extra Bold Italic'), local('ArtifexHandCF-ExtraBoldItalic'),
+        url('ArtifexHandCF-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('ArtifexHandCF-ExtraBoldItalic.woff2') format('woff2'),
+        url('ArtifexHandCF-ExtraBoldItalic.woff') format('woff'),
+        url('ArtifexHandCF-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Artifex Hand CF';
+    src: url('ArtifexHandCF-Regular.eot');
+    src: local('Artifex Hand CF Regular'), local('ArtifexHandCF-Regular'),
+        url('ArtifexHandCF-Regular.eot?#iefix') format('embedded-opentype'),
+        url('ArtifexHandCF-Regular.woff2') format('woff2'),
+        url('ArtifexHandCF-Regular.woff') format('woff'),
+        url('ArtifexHandCF-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Artifex Hand CF';
+    src: url('ArtifexHandCF-DemiBold.eot');
+    src: local('Artifex Hand CF Demi Bold'), local('ArtifexHandCF-DemiBold'),
+        url('ArtifexHandCF-DemiBold.eot?#iefix') format('embedded-opentype'),
+        url('ArtifexHandCF-DemiBold.woff2') format('woff2'),
+        url('ArtifexHandCF-DemiBold.woff') format('woff'),
+        url('ArtifexHandCF-DemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
