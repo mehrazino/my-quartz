@@ -28,7 +28,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
-    Component.PageTitle(),
+    // Component.PageTitle(), // عنوان وبسایت غیرفعال شده است
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
@@ -42,7 +42,7 @@ export const defaultContentPageLayout: PageLayout = {
     // Component.Explorer(),
   ],
   right: [
-    Component.TableOfContents(),
+    Component.DesktopOnly(Component.TableOfContents()),
     // Component.Backlinks(),
   ],
 }
@@ -54,7 +54,7 @@ export const defaultListPageLayout: PageLayout = {
     showDate: false
   })],
   left: [
-    Component.PageTitle(),
+    // Component.PageTitle(), // عنوان وبسایت غیرفعال شده است
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [

@@ -51,7 +51,7 @@ export default {
       searchBarPlaceholder: "مطلبی را جستجو کنید",
     },
     tableOfContents: {
-      title: "فهرست",
+      title: "در این صفحه:",
     },
     contentMeta: {
       readingTime: ({ minutes }) => `زمان تقریبی مطالعه: ${minutes} دقیقه`,

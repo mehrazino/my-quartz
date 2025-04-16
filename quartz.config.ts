@@ -11,7 +11,8 @@ const config: QuartzConfig = {
     pageTitle: "مهراز آزاد",
     pageTitleSuffix: "",
     enableSPA: true,
-    enablePopovers: true,
+    // enablePopovers: true, // پیش‌نمایش لینک‌های داخلی غیرفعال شده است
+    enablePopovers: false,
     analytics: {
       provider: "plausible",
     },
