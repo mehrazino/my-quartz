@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "content/درباره.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "درباره"
             }
           }
         ]
@@ -171,16 +171,17 @@
   },
   "active": "922d5d72e04fab92",
   "lastOpenFiles": [
+    "content/گفتارها.md",
+    "content/index.md",
+    "template/Untitled.md",
     "content/کتاب‌ها",
     "public/کتاب‌ها",
-    "content/گفتارها.md",
     "public/وبلاگ/test.html",
     "public/وبلاگ/index.html",
     "public/وبلاگ",
     "README.md",
     "conflict-files-obsidian-git.md",
     "content/quotes.md",
-    "content/index.md",
     "content/about.md",
     "public/about-og-image.webp",
     "public/quotes.html",
@@ -189,10 +190,8 @@
     "content/books",
     "content/weblog/Untitled.md",
     "Untitled",
-    "template/Untitled.md",
     "template",
     "content/technology/ai-trends.md",
-    "public/tags/وب.html",
     "content/technology/web-development.md",
     "content/lifestyle/digital-minimalism.md",
     "content/lifestyle/healthy-habits.md",
