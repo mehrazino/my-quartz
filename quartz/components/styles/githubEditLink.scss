@@ -1,0 +1,43 @@
+@use "../../styles/variables.scss" as *;
+
+.github-edit-link {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  padding: 2rem 0;
+  border-top: 1px solid var(--lightgray);
+  text-align: center;
+  font-size: 0.9rem;
+  color: var(--darkgray);
+  width: 100%;
+  
+  a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: var(--secondary);
+    text-decoration: none;
+    transition: color 0.2s ease;
+    justify-content: center;
+    
+    &:hover {
+      color: var(--tertiary);
+      text-decoration: underline;
+    }
+    
+    .icon {
+      width: 1rem;
+      height: 1rem;
+    }
+  }
+  
+  hr.after-edit-link {
+    margin-top: 2rem;
+    margin-bottom: 0;
+    border: none;
+    height: 1px;
+    background-color: var(--lightgray);
+    width: 100%;
+  }
+}
+
+// RTL support - نیازی نیست چون مرکز صفحه برای هر دو جهت یکسان است 

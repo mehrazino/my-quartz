@@ -5,7 +5,18 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [Component.Graph()],
+  afterBody: [
+    Component.ConditionalRender({
+      component: Component.GitHubEditLink({
+        repoUrl: "https://github.com/mehrazino/my-quartz",
+        branch: "v4",
+        contentPath: "content",
+        text: "ویرایش این صفحه در گیت‌هاب"
+      }),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
+    Component.Graph()
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/mehrazino",
@@ -31,15 +42,24 @@ export const defaultContentPageLayout: PageLayout = {
     // Component.PageTitle(), // عنوان وبسایت غیرفعال شده است
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
+      gap: "0.5rem",
+      direction: "row",
       components: [
         {
           Component: Component.Search(),
           grow: true,
+          shrink: false,
+          basis: "calc(100% - 2.3rem)",
         },
-        { Component: Component.Darkmode() },
+        { 
+          Component: Component.Darkmode(),
+          align: "end",
+          basis: "2rem",
+        },
       ],
     }),
     // Component.Explorer(),
+    Component.FloatingButtons({position: 'right'}),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
@@ -57,15 +77,24 @@ export const defaultListPageLayout: PageLayout = {
     // Component.PageTitle(), // عنوان وبسایت غیرفعال شده است
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
+      gap: "0.5rem",
+      direction: "row",
       components: [
         {
           Component: Component.Search(),
           grow: true,
+          shrink: false,
+          basis: "calc(100% - 2.3rem)",
         },
-        { Component: Component.Darkmode() },
+        { 
+          Component: Component.Darkmode(),
+          align: "end",
+          basis: "2rem",
+        },
       ],
     }),
     // Component.Explorer(),
+    Component.FloatingButtons({position: 'right'}),
   ],
   right: [],
 }

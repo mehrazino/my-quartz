@@ -19,19 +19,64 @@ h2#footnote-label::after{
 .github-link {
     color: hsl(0, 0%, 50%) !important;
     text-decoration: none !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    transition: color 0.2s ease !important;
+    
+    &:hover {
+        color: #333 !important;
+    }
+    
+    svg {
+        margin-left: 0.5rem;
+    }
 }
 
 .telegram-link {
-    color: hsl(211, 100%, 50%);
-    text-decoration: none;
-}
-
-.github-link:hover {
-    color: hsl(0, 0%, 50%) !important;
-    text-decoration: none !important;
-}
-
-.telegram-link:hover {
     color: hsl(211, 100%, 50%) !important;
     text-decoration: none !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    transition: color 0.2s ease !important;
+    
+    &:hover {
+        color: #0088cc !important;
+    }
+    
+    svg {
+        margin-left: 0.5rem;
+    }
+}
+
+// هم‌ترازی دکمه‌ها
+.sidebar.left {
+    padding-right: 0 !important; // حذف پدینگ اضافی
+}
+
+.sidebar.left > div {
+    width: 100%;
+    padding-right: 1.5rem !important;
+    box-sizing: border-box;
+}
+
+.search {
+    max-width: none !important;
+    width: 100% !important;
+}
+
+/* تنظیم دقیق کانتینر فلکس */
+.sidebar.left > div[style*="display: flex"] {
+    width: calc(100%) !important;
+    margin-right: 0 !important;
+    padding-right: 0 !important;
+    box-sizing: border-box !important;
+}
+
+/* بهبود هم‌ترازی با افزایش عرض نوار جستجو */
+.search > .search-button {
+    width: calc(100% + 4px) !important;
+}
+
+.floating-buttons.floating-right {
+    right: 1.5rem !important;
 }

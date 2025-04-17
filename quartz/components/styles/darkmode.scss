@@ -2,21 +2,32 @@
   cursor: pointer;
   padding: 0;
   position: relative;
-  background: none;
+  background-color: var(--lightgray);
   border: none;
-  width: 20px;
-  height: 20px;
-  margin: 0 10px;
+  border-radius: 4px;
+  width: 2rem;
+  height: 2rem;
+  margin: 0 5px;
   text-align: inherit;
   flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 
   & svg {
-    position: absolute;
-    width: 20px;
-    height: 20px;
-    top: calc(50% - 5px);
+    position: relative;
+    width: 18px;
+    height: 18px;
     fill: var(--darkgray);
-    transition: opacity 0.1s ease;
+    transition: all 0.2s ease;
+  }
+
+  &:hover {
+    background-color: var(--gray);
+    
+    svg {
+      fill: var(--light);
+    }
   }
 }
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/درباره.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "درباره"
+              "title": "index"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "922d5d72e04fab92",
   "lastOpenFiles": [
+    "content/درباره.md",
     "content/گفتارها.md",
     "content/index.md",
     "template/Untitled.md",

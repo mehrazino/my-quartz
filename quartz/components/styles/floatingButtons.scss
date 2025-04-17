@@ -1,0 +1,105 @@
+@use "../../styles/variables.scss" as *;
+.floating-buttons {
+    position: fixed;
+    bottom: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    z-index: 100;
+    
+    &.floating-right {
+      right: 1.5rem;
+    }
+    
+    &.floating-left {
+      left: 1.5rem;
+    }
+    
+    .button-group {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+  
+    .floating-button {
+      width: 2rem;
+      height: 2rem;
+      background-color: var(--lightgray);
+      border: none;
+      border-radius: 4px;
+      color: var(--dark);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      padding: 0;
+      position: relative;
+      
+      &:hover {
+        background-color: var(--gray);
+        color: var(--light);
+      }
+      
+      svg {
+        width: 18px;
+        height: 18px;
+      }
+  
+      .floating-button-tooltip {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        background: var(--dark);
+        color: var(--light);
+        padding: 4px 8px;
+        border-radius: 4px;
+        font-size: 12px;
+        white-space: nowrap;
+        opacity: 0;
+        visibility: hidden;
+        transition: all 0.2s ease;
+        pointer-events: none;
+        font-family: var(--bodyFont);
+        
+        right: calc(100% + 10px);
+        
+        &::after {
+          content: '';
+          position: absolute;
+          right: -4px;
+          top: 50%;
+          transform: translateY(-50%);
+          border-left: 4px solid var(--dark);
+          border-top: 4px solid transparent;
+          border-bottom: 4px solid transparent;
+        }
+      }
+  
+      &:hover .floating-button-tooltip {
+        opacity: 1;
+        visibility: visible;
+      }
+    }
+  }
+  
+  // تنظیمات برای نمایش تولتیپ در سمت راست برای دکمه‌های سمت چپ
+  .floating-left {
+    .floating-button .floating-button-tooltip {
+      right: auto;
+      left: calc(100% + 10px);
+      
+      &::after {
+        right: auto;
+        left: -4px;
+        border-right: 4px solid var(--dark);
+        border-left: none;
+      }
+    }
+  }
+  
+  // تنظیمات واکنش‌گرا برای دستگاه‌های موبایل
+  @media (max-width: 600px) {
+    .floating-buttons {
+      display: none; // مخفی کردن کامل دکمه‌های شناور در موبایل
+    }
+  } 
