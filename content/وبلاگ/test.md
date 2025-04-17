@@ -1,16 +1,17 @@
 ---
 title: پیش‌نمایش و تست سازگاری
-description:
-date:
-lang:
-draft:
-enableToc:
+description: 
+date: 
+lang: 
+draft: 
+enableToc: 
 tags:
-cssclasses:
-socialDescription:
-image:
-cover:
-socialImage:
+  - book
+cssclasses: 
+socialDescription: 
+image: 
+cover: 
+socialImage: 
 aliases:
 ---
 📁 [فایل اصلی](https://github.com/fardm/quartz/blob/v4/content/elements.md)
@@ -19,7 +20,7 @@ aliases:
 
 ## مواردی که پشتیبانی می‌کند
 
-
+#تست
 # تیتر 1
 ## تیتر 2
 ### تیتر 3
@@ -152,7 +153,7 @@ EmbededCover
 
 ### تصویر
 محلی
-![[calendar2.png | 250]]
+![[quartz/static/icon-header.png | logo]]
 
 خارجی
 

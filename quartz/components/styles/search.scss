@@ -28,6 +28,30 @@
       padding: 0 1rem;
     }
 
+    & > .search-shortcut {
+      display: flex;
+      align-items: center;
+      gap: 0.25rem;
+      margin-right: auto;
+      margin-left: 0.5rem;
+      
+      & > kbd {
+        font-family: monospace;
+        font-size: 1rem;
+        font-weight: 500;
+        background-color: rgba(0, 0, 0, 0.15);
+        padding: 0.2rem 0.4rem;
+        border-radius: 0.25rem;
+        color: var(--darkgray);
+        letter-spacing: 0.05rem;
+        white-space: nowrap;
+      }
+      
+      @media all and ($mobile) {
+        display: none;
+      }
+    }
+
     & svg {
       cursor: pointer;
       width: 18px;

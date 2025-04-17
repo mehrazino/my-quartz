@@ -102,4 +102,9 @@
   .floating-button:hover .floating-button-tooltip {
     opacity: 1;
   }
+  
+  /* مخفی کردن دکمه‌ها در نمای موبایل */
+  @media (max-width: 768px) {
+    display: none;
+  }
 } 

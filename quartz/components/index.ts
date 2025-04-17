@@ -25,6 +25,9 @@ import ConditionalRender from "./ConditionalRender"
 import FloatingButtons from "./FloatingButtons"
 import GitHubEditLink from "./GitHubEditLink"
 import SocialButtons from "./SocialButtons"
+import MenuCards from "./MenuCards"
+import PersianNumbers from "./PersianNumbers"
+import { PageLayout, SharedLayout } from "../cfg"
 
 export {
   ArticleTitle,
@@ -54,4 +57,8 @@ export {
   FloatingButtons,
   GitHubEditLink,
   SocialButtons,
+  MenuCards,
+  PersianNumbers,
+  PageLayout,
+  SharedLayout,
 }

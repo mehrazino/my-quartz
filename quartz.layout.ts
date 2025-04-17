@@ -36,6 +36,7 @@ export const sharedPageComponents: SharedLayout = {
     }),
     Component.Graph(),
     Component.SocialButtons(),
+    Component.PersianNumbers(),
   ],
   footer: Component.Footer({
     links: {
@@ -50,6 +51,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ConditionalRender({
       component: Component.Breadcrumbs({rootName: "خانه",}),
       condition: (page) => page.fileData.slug !== "index",
+    }),
+    Component.ConditionalRender({
+      component: Component.MenuCards(),
+      condition: (page) => page.fileData.slug === "index",
     }),
     Component.ArticleTitle(),
     Component.ContentMeta({

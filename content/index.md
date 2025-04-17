@@ -8,11 +8,10 @@ enableToc: true
 tags: 
 cssclasses: 
 socialDescription: 
-image: public/static/icon-header.png
-cover: public/static/icon-header.png
-socialImage: public/static/icon-header.png
+image: 
+cover: 
+socialImage: 
 aliases:
 ---
-[[درباره]]
 
-[[گفتارها]]
+
