@@ -16,38 +16,6 @@ h2#footnote-label::after{
 	color: var(--darkgray);             
 }
 
-.github-link {
-    color: hsl(0, 0%, 50%) !important;
-    text-decoration: none !important;
-    display: inline-flex !important;
-    align-items: center !important;
-    transition: color 0.2s ease !important;
-    
-    &:hover {
-        color: #333 !important;
-    }
-    
-    svg {
-        margin-left: 0.5rem;
-    }
-}
-
-.telegram-link {
-    color: hsl(211, 100%, 50%) !important;
-    text-decoration: none !important;
-    display: inline-flex !important;
-    align-items: center !important;
-    transition: color 0.2s ease !important;
-    
-    &:hover {
-        color: #0088cc !important;
-    }
-    
-    svg {
-        margin-left: 0.5rem;
-    }
-}
-
 // هم‌ترازی دکمه‌ها
 .sidebar.left {
     padding-right: 0 !important; // حذف پدینگ اضافی
@@ -57,6 +25,34 @@ h2#footnote-label::after{
     width: 100%;
     padding-right: 1.5rem !important;
     box-sizing: border-box;
+}
+
+// تنظیمات برای header چسبیده به بالای صفحه
+header {
+    z-index: 10 !important;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05) !important;
+}
+
+// بهبود استایل Search در header
+header .search {
+    max-width: none !important;
+    width: 100% !important;
+    min-width: 240px !important;
+}
+
+// تنظیم فاصله محتوا از header
+.center {
+    padding-top: 1rem !important;
+}
+
+// تنظیم فاصله breadcrumbs از محتوا
+.center .page-header {
+    margin-top: 0 !important;
+}
+
+// افزایش فاصله مابین header و pagination
+.center .page-header + article {
+    margin-top: 1rem !important;
 }
 
 .search {
@@ -79,4 +75,40 @@ h2#footnote-label::after{
 
 .floating-buttons.floating-right {
     right: 1.5rem !important;
+}
+
+/* کاهش فاصله بین گراف و فوتر در صفحه اصلی */
+.graph {
+    margin-bottom: 0 !important;
+}
+
+footer {
+    margin-top: 1rem !important;
+}
+
+/* استایل لینک‌های اجتماعی */
+.social-links {
+    display: flex !important;
+    justify-content: center !important;
+    gap: 1.5rem !important;
+    margin-top: 1rem !important;
+    margin-bottom: 1rem !important;
+    position: relative !important;
+    z-index: 9000 !important;
+}
+
+.social-links a {
+    display: flex !important;
+    align-items: center !important;
+    text-decoration: none !important;
+    transition: opacity 1s ease !important;
+    position: relative !important;
+    z-index: 9001 !important;
+    cursor: pointer !important;
+    pointer-events: auto !important;
+}
+
+.social-links a svg {
+    margin-left: 0.5rem !important;
+    vertical-align: middle !important;
 }

@@ -1,0 +1,105 @@
+.social-floating-buttons {
+  position: fixed;
+  left: 1.5rem;
+  bottom: 1.5rem;
+  z-index: 100;
+  
+  .button-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  
+  .floating-button {
+    width: 2rem;
+    height: 2rem;
+    border-radius: 4px;
+    background-color: var(--lightgray);
+    border: none;
+    color: var(--darkgray);
+    opacity: 0.7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.5s ease;
+    position: relative;
+    
+    &:hover {
+      opacity: 1;
+      background-color: var(--lightgray);
+    }
+    
+    svg {
+      width: 1rem;
+      height: 1rem;
+      transition: all 0.5s ease;
+    }
+  }
+  
+  /* استایل گیت‌هاب */
+  .github-button {
+    svg {
+      fill: var(--darkgray);
+      width: 1.1rem;
+      height: 1.1rem;
+    }
+    
+    &:hover {
+      opacity: 1;
+      
+      svg {
+        fill: #000000;
+      }
+    }
+  }
+  
+  /* استایل تلگرام */
+  .telegram-button {
+    svg {
+      fill: var(--darkgray);
+      width: 1.1rem;
+      height: 1.1rem;
+    }
+    
+    &:hover {
+      opacity: 1;
+      
+      svg {
+        fill: #24A1DE;
+      }
+    }
+  }
+  
+  .floating-button-tooltip {
+    position: absolute;
+    left: 100%;
+    top: 50%;
+    transform: translateY(-50%);
+    margin-left: 0.5rem;
+    padding: 0.3rem 0.6rem;
+    background-color: var(--dark);
+    color: var(--light);
+    border-radius: 4px;
+    font-size: 0.8rem;
+    white-space: nowrap;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s ease;
+    
+    &::after {
+      content: '';
+      position: absolute;
+      right: 100%;
+      top: 50%;
+      transform: translateY(-50%);
+      border-width: 5px;
+      border-style: solid;
+      border-color: transparent var(--dark) transparent transparent;
+    }
+  }
+  
+  .floating-button:hover .floating-button-tooltip {
+    opacity: 1;
+  }
+} 

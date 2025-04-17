@@ -41,7 +41,6 @@ export default ((opts?: Partial<GitHubEditLinkOptions>) => {
           </svg>
           {text}
         </a>
-        <hr className="after-edit-link" />
       </div>
     )
   }

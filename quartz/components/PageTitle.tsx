@@ -18,6 +18,25 @@ PageTitle.css = `
   font-size: 1.75rem;
   margin: 0;
   font-family: var(--titleFont);
+  line-height: 1.2;
+}
+
+.page-title a {
+  display: inline-block;
+  color: var(--darkgray);
+  text-decoration: none;
+  padding: 0;
+  margin: 0;
+}
+
+.page-title a:hover {
+  color: var(--secondary);
+}
+
+@media (max-width: 600px) {
+  .page-title {
+    font-size: 1.5rem;
+  }
 }
 `
 

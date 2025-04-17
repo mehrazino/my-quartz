@@ -4,7 +4,26 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [],
+  header: [
+    Component.PageTitle(),
+    Component.Flex({
+      gap: "0.5rem",
+      direction: "row",
+      components: [
+        {
+          Component: Component.Search(),
+          grow: true,
+          shrink: false,
+          basis: "calc(100% - 2.3rem)",
+        },
+        { 
+          Component: Component.Darkmode(),
+          align: "end",
+          basis: "2rem",
+        },
+      ],
+    }),
+  ],
   afterBody: [
     Component.ConditionalRender({
       component: Component.GitHubEditLink({
@@ -15,7 +34,8 @@ export const sharedPageComponents: SharedLayout = {
       }),
       condition: (page) => page.fileData.slug !== "index",
     }),
-    Component.Graph()
+    Component.Graph(),
+    Component.SocialButtons(),
   ],
   footer: Component.Footer({
     links: {
@@ -39,25 +59,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
-    // Component.PageTitle(), // عنوان وبسایت غیرفعال شده است
     Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      gap: "0.5rem",
-      direction: "row",
-      components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-          shrink: false,
-          basis: "calc(100% - 2.3rem)",
-        },
-        { 
-          Component: Component.Darkmode(),
-          align: "end",
-          basis: "2rem",
-        },
-      ],
-    }),
     // Component.Explorer(),
     Component.FloatingButtons({position: 'right'}),
   ],
@@ -69,30 +71,16 @@ export const defaultContentPageLayout: PageLayout = {
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs({rootName: "خانه",}), Component.ArticleTitle(), Component.ContentMeta({
-    showReadingTime: false,
-    showDate: false
-  })],
+  beforeBody: [
+    Component.Breadcrumbs({rootName: "خانه",}), 
+    Component.ArticleTitle(), 
+    Component.ContentMeta({
+      showReadingTime: false,
+      showDate: false
+    })
+  ],
   left: [
-    // Component.PageTitle(), // عنوان وبسایت غیرفعال شده است
     Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      gap: "0.5rem",
-      direction: "row",
-      components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-          shrink: false,
-          basis: "calc(100% - 2.3rem)",
-        },
-        { 
-          Component: Component.Darkmode(),
-          align: "end",
-          basis: "2rem",
-        },
-      ],
-    }),
     // Component.Explorer(),
     Component.FloatingButtons({position: 'right'}),
   ],

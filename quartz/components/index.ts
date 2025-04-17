@@ -24,6 +24,7 @@ import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import FloatingButtons from "./FloatingButtons"
 import GitHubEditLink from "./GitHubEditLink"
+import SocialButtons from "./SocialButtons"
 
 export {
   ArticleTitle,
@@ -52,4 +53,5 @@ export {
   ConditionalRender,
   FloatingButtons,
   GitHubEditLink,
+  SocialButtons,
 }
