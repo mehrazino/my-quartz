@@ -171,6 +171,7 @@
   },
   "active": "8dc897671b84ef76",
   "lastOpenFiles": [
+    "public/tags/ok.html",
     "public/tags/للل.html",
     "public/tags/لبلب.html",
     "public/tags/بلب.html",
@@ -184,7 +185,6 @@
     "public/tags/تست.html",
     "public/tags/book.html",
     "quartz/components/MenuCards.tsx",
-    "quartz/plugins/transformers/shortcodes.ts",
     "public/test-cards-og-image.webp",
     "content/test-cards.md",
     "public/icon-header.png",

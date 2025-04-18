@@ -57,7 +57,7 @@ class DiagramPanZoom {
     // Zoom controls
     const zoomIn = this.createButton("+", () => this.zoom(0.1))
     const zoomOut = this.createButton("-", () => this.zoom(-0.1))
-    const resetBtn = this.createButton("Reset", () => this.resetTransform())
+    const resetBtn = this.createButton("بازنشانی", () => this.resetTransform())
 
     controls.appendChild(zoomOut)
     controls.appendChild(resetBtn)
@@ -183,7 +183,7 @@ document.addEventListener("nav", async () => {
       securityLevel: "loose",
       theme: darkMode ? "dark" : "base",
       themeVariables: {
-        fontFamily: computedStyleMap["--codeFont"],
+        fontFamily: "Vazirmatn, " + computedStyleMap["--codeFont"],
         primaryColor: computedStyleMap["--light"],
         primaryTextColor: computedStyleMap["--darkgray"],
         primaryBorderColor: computedStyleMap["--tertiary"],

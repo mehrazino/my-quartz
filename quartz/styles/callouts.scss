@@ -114,7 +114,7 @@
   }
 
   &.is-collapsed > .callout-title > .fold-callout-icon {
-    transform: rotateZ(-90deg);
+    transform: rotateZ(90deg);
   }
 }
 

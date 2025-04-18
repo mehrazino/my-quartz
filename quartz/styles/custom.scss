@@ -2,6 +2,22 @@
 
 // put your custom CSS here!
 
+// Justify text for all paragraphs in all languages
+p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+article li {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+blockquote p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 h2#footnote-label{
 	visibility: hidden;
 }
@@ -16,9 +32,9 @@ h2#footnote-label::after{
 	color: var(--darkgray);             
 }
 
-// هم‌ترازی دکمه‌ها
+// Button alignment
 .sidebar.left {
-    padding-right: 0 !important; // حذف پدینگ اضافی
+    padding-right: 0 !important; // Remove extra padding
 }
 
 .sidebar.left > div {
@@ -27,29 +43,29 @@ h2#footnote-label::after{
     box-sizing: border-box;
 }
 
-// تنظیمات برای header چسبیده به بالای صفحه
+// Settings for sticky header
 header {
     z-index: 10 !important;
 }
 
-// بهبود استایل Search در header
+// Improve Search style in header
 header .search {
     max-width: none !important;
     width: 100% !important;
     min-width: 240px !important;
 }
 
-// تنظیم فاصله محتوا از header
+// Adjust content distance from header
 .center {
     padding-top: 1rem !important;
 }
 
-// تنظیم فاصله breadcrumbs از محتوا
+// Adjust breadcrumbs distance from content
 .center .page-header {
     margin-top: 0 !important;
 }
 
-// افزایش فاصله مابین header و pagination
+// Increase space between header and pagination
 .center .page-header + article {
     margin-top: 1rem !important;
 }
@@ -59,7 +75,7 @@ header .search {
     width: 100% !important;
 }
 
-/* تنظیم دقیق کانتینر فلکس */
+/* Fine-tune flex container */
 .sidebar.left > div[style*="display: flex"] {
     width: calc(100%) !important;
     margin-right: 0 !important;
@@ -67,7 +83,7 @@ header .search {
     box-sizing: border-box !important;
 }
 
-/* بهبود هم‌ترازی با افزایش عرض نوار جستجو */
+/* Improve alignment by increasing search bar width */
 .search > .search-button {
     width: calc(100% + 4px) !important;
 }
@@ -76,7 +92,7 @@ header .search {
     right: 1.5rem !important;
 }
 
-/* کاهش فاصله بین گراف و فوتر در صفحه اصلی */
+/* Reduce space between graph and footer on home page */
 .graph {
     margin-bottom: 0 !important;
 }
@@ -85,7 +101,7 @@ footer {
     margin-top: 1rem !important;
 }
 
-/* استایل لینک‌های اجتماعی */
+/* Social links styling */
 .social-links {
     display: flex !important;
     justify-content: center !important;
@@ -110,4 +126,49 @@ footer {
 .social-links a svg {
     margin-left: 0.5rem !important;
     vertical-align: middle !important;
+}
+
+/* Auto RTL direction for Persian/Arabic text */
+p, li, blockquote p, h1, h2, h3, h4, h5, h6, td, th, div, span {
+  &:not(pre *, code, .katex *, .math *) {
+    &:lang(ar), &:lang(fa) {
+      direction: rtl;
+    }
+    
+    &:not([lang]) {
+      unicode-bidi: plaintext;
+    }
+  }
+}
+
+/* Ensure code blocks and math expressions always maintain LTR direction */
+pre, code, .katex, .math {
+  direction: ltr !important;
+  text-align: left !important;
+}
+
+/* Set Vazirmatn font for Mermaid diagrams */
+.mermaid text, .mermaid .label {
+  font-family: Vazirmatn !important;
+}
+
+/* Ensure Vazirmatn is used in all SVG text in diagrams */
+svg text {
+  font-family: Vazirmatn !important;
+}
+
+/* Center all images and diagrams */
+img,
+.mermaid,
+pre:has(> code.mermaid) {
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  text-align: center !important;
+}
+
+/* Center text captions for images */
+p > img + em {
+  text-align: center !important;
+  display: block !important;
 }

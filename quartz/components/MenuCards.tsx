@@ -101,11 +101,11 @@ MenuCards.css = `
 }
 
 .menu-card:hover svg {
-  stroke: white;
+  stroke: white !important;
 }
 
 .menu-card:hover span {
-  color: white;
+  color: white !important;
 }
 
 .menu-card svg {
@@ -155,11 +155,11 @@ MenuCards.css = `
   }
   
   .menu-card:hover svg {
-    stroke: var(--darkgray);
+    stroke: var(--darkgray) !important;
   }
   
   .menu-card:hover span {
-    color: var(--darkgray);
+    color: var(--darkgray) !important;
   }
   
   .site-logo {

@@ -13,20 +13,37 @@
   a {
     display: inline-flex;
     align-items: center;
-    gap: 0.5rem;
-    color: var(--secondary);
-    text-decoration: none;
-    transition: color 0.2s ease;
     justify-content: center;
+    background-color: transparent;
+    border: 1px solid var(--lightgray);
+    border-radius: 4px;
+    padding: 0.75rem 1.5rem;
+    text-decoration: none;
+    color: var(--darkgray);
+    transition: all 0.3s ease;
+    min-width: 10rem;
+    gap: 0.5rem;
     
     &:hover {
-      color: var(--tertiary);
-      text-decoration: underline;
+      background-color: var(--secondary);
+      transform: translateY(-2px);
+      box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+      border-color: var(--secondary);
+      text-decoration: none;
+      
+      .icon, span {
+        color: white;
+      }
     }
     
     .icon {
       width: 1rem;
       height: 1rem;
+      transition: all 0.3s ease;
+    }
+    
+    span {
+      transition: all 0.3s ease;
     }
   }
   
@@ -37,6 +54,27 @@
     height: 1px;
     background-color: var(--lightgray);
     width: 100%;
+  }
+}
+
+@media (max-width: 600px) {
+  .github-edit-link a {
+    width: 90%;
+    max-width: 250px;
+    background-color: transparent;
+    border: 1px solid var(--lightgray);
+    margin-top: 1rem;
+    
+    &:hover {
+      transform: none;
+      box-shadow: none;
+      background-color: var(--lightgray);
+      border-color: var(--lightgray);
+      
+      .icon, span {
+        color: var(--darkgray);
+      }
+    }
   }
 }
 

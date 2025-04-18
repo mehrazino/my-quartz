@@ -20,6 +20,7 @@ header {
 header h2 {
   margin: 0;
   flex: auto;
+  text-align: right;
 }
 
 @media (max-width: 600px) {

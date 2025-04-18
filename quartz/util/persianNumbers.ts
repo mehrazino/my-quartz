@@ -1,7 +1,7 @@
 /**
- * تبدیل اعداد انگلیسی به فارسی
- * @param input متن ورودی حاوی اعداد انگلیسی
- * @returns متن با اعداد فارسی
+ * Convert English numbers to Persian
+ * @param input Input text containing English numbers
+ * @returns Text with Persian numbers
  */
 export function toPersianNumbers(input: string): string {
   const persianDigits = ['۰', '۱', '۲', '۳', '۴', '۵', '۶', '۷', '۸', '۹'];
@@ -9,9 +9,9 @@ export function toPersianNumbers(input: string): string {
 }
 
 /**
- * تبدیل اعداد فارسی به انگلیسی
- * @param input متن ورودی حاوی اعداد فارسی
- * @returns متن با اعداد انگلیسی
+ * Convert Persian numbers to English
+ * @param input Input text containing Persian numbers
+ * @returns Text with English numbers
  */
 export function toEnglishNumbers(input: string): string {
   return input.replace(/[۰-۹]/g, (digit) => {

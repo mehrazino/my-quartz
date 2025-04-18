@@ -26,7 +26,6 @@ import FloatingButtons from "./FloatingButtons"
 import GitHubEditLink from "./GitHubEditLink"
 import SocialButtons from "./SocialButtons"
 import MenuCards from "./MenuCards"
-import PersianNumbers from "./PersianNumbers"
 import { PageLayout, SharedLayout } from "../cfg"
 
 export {
@@ -58,7 +57,6 @@ export {
   GitHubEditLink,
   SocialButtons,
   MenuCards,
-  PersianNumbers,
   PageLayout,
   SharedLayout,
 }

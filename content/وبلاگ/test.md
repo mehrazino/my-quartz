@@ -5,12 +5,7 @@ date:
 lang: 
 draft: 
 enableToc: 
-tags:
-  - book
-  - فنی
-  - بلب
-  - لبلب
-  - للل
+tags: []
 cssclasses: 
 socialDescription: 
 image: 
@@ -200,12 +195,6 @@ linkStyle default stroke:gray,stroke-width:1px;
 
 ### دکمه (button)
 
-<div style="text-align: center;">
-<button 
-	style="	background-color: black; color: white; padding: 8px 20px; border: none; border-radius: 10px; cursor: pointer; transition: background-color 0.3s ease;"	onclick="location.href='https://example.com/';">
-     کلیک کنید
-</button>
-</div>
 
 
 

@@ -34,9 +34,7 @@ export const sharedPageComponents: SharedLayout = {
       }),
       condition: (page) => page.fileData.slug !== "index",
     }),
-    Component.Graph(),
     Component.SocialButtons(),
-    Component.PersianNumbers(),
   ],
   footer: Component.Footer({
     links: {
