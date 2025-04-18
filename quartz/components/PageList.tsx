@@ -111,5 +111,9 @@ PageList.css = `
 
 .section > .tags {
   margin: 0;
+  gap: 0.4rem;
+  width: 100%;
+  justify-content: flex-start;
+  max-width: 100%;
 }
 `

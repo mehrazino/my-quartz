@@ -68,6 +68,7 @@ MenuCards.css = `
 .site-logo {
   width: 300px;
   height: auto;
+  user-select: none;
 }
 
 .menu-row {

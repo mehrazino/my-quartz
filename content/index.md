@@ -1,10 +1,10 @@
 ---
-title: در حال آماده‌سازی
+title: وبلاگ مهراز
 description: 
 date: 
 lang: 
 draft: 
-enableToc: true
+enableToc: false
 tags: 
 cssclasses: 
 socialDescription: 
@@ -13,5 +13,3 @@ cover:
 socialImage: 
 aliases:
 ---
-
-

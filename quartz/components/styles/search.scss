@@ -22,10 +22,12 @@
     white-space: nowrap;
     width: 100%;
     justify-content: space-between;
+    user-select: none;
 
     & > p {
       display: inline;
       padding: 0 1rem;
+      user-select: none;
     }
 
     & > .search-shortcut {
@@ -34,6 +36,7 @@
       gap: 0.25rem;
       margin-right: auto;
       margin-left: 0.5rem;
+      user-select: none;
       
       & > kbd {
         font-family: monospace;
@@ -45,6 +48,7 @@
         color: var(--darkgray);
         letter-spacing: 0.05rem;
         white-space: nowrap;
+        user-select: none;
       }
       
       @media all and ($mobile) {

@@ -19,6 +19,7 @@ PageTitle.css = `
   margin: 0;
   font-family: var(--titleFont);
   line-height: 1.2;
+  user-select: none;
 }
 
 .page-title a {
@@ -27,6 +28,7 @@ PageTitle.css = `
   text-decoration: none;
   padding: 0;
   margin: 0;
+  user-select: none;
 }
 
 .page-title a:hover {

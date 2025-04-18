@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-04-17.md",
+                "file": "content/وبلاگ/test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-17"
+              "title": "test"
             }
           }
         ]
@@ -171,19 +171,20 @@
   },
   "active": "8dc897671b84ef76",
   "lastOpenFiles": [
+    "public/tags/للل.html",
+    "public/tags/لبلب.html",
+    "public/tags/بلب.html",
+    "content/index.md",
     "content/وبلاگ/test.md",
+    "public/tags/فنی.html",
     "2025-04-17.md",
     "quartz/components/PersianNumbers.tsx",
     "quartz/components/scripts/persianNumbers.inline.ts",
     "quartz/util/persianNumbers.ts",
     "public/tags/تست.html",
     "public/tags/book.html",
-    "content/index.md",
     "quartz/components/MenuCards.tsx",
     "quartz/plugins/transformers/shortcodes.ts",
-    "quartz/components/styles/linkCards.scss",
-    "quartz/components/LinkCards.tsx",
-    "quartz/plugins/transformers/card.ts",
     "public/test-cards-og-image.webp",
     "content/test-cards.md",
     "public/icon-header.png",

@@ -64,7 +64,7 @@ export default {
     },
     error: {
       title: "یافت نشد",
-      notFound: "این صفحه یا خصوصی است یا وجود ندارد",
+      notFound: "البته جوینده یابنده‌ست :)",
       home: "بازگشت به صفحه اصلی",
     },
     folderContent: {

@@ -7,6 +7,10 @@ draft:
 enableToc: 
 tags:
   - book
+  - فنی
+  - بلب
+  - لبلب
+  - للل
 cssclasses: 
 socialDescription: 
 image: 
