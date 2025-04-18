@@ -111,6 +111,6 @@ PageList.css = `
 
 .section > .tags {
   margin: 0;
-  gap: 0.8rem;
+  gap: 0.7rem;
 }
 `
