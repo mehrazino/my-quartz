@@ -3,5 +3,10 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "content/weblog",
   "alwaysUpdateLinks": true,
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "showLineNumber": false,
+  "foldHeading": true,
+  "spellcheck": false,
+  "showInlineTitle": false,
+  "rightToLeft": true
 }

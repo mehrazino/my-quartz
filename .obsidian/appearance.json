@@ -7,5 +7,7 @@
   ],
   "cssTheme": "",
   "accentColor": "#008f37",
-  "baseFontSize": 17
+  "baseFontSize": 17,
+  "showRibbon": true,
+  "showViewHeader": true
 }

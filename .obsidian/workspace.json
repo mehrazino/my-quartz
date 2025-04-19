@@ -15,7 +15,7 @@
               "state": {
                 "file": "content/گفتارها.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "گفتارها"
@@ -171,11 +171,17 @@
   },
   "active": "0b64e19baf03583e",
   "lastOpenFiles": [
-    "content/index.md",
-    "content/گفتارها.md",
-    "public/گفتارها-og-image.webp",
     "content/درباره.md",
+    "content/وبلاگ/موزه‌ی دهکده جهانی.md",
     "content/وبلاگ/test.md",
+    "content/کتاب/test.md",
+    "content/index.md",
+    "templates/Untitled.md",
+    "content/گفتارها.md",
+    "public/scripts/rtl-blockquotes.js",
+    "public/scripts",
+    "quartz/components/scripts/rtl-blockquotes.js",
+    "public/گفتارها-og-image.webp",
     "content/وبلاگ/20.md",
     "private/TODO.md",
     "private",
@@ -189,9 +195,6 @@
     "content/icon-header.png",
     "public/tags/ok.html",
     "public/tags/للل.html",
-    "public/tags/لبلب.html",
-    "public/tags/بلب.html",
-    "public/tags/فنی.html",
     "2025-04-17.md",
     "public/test-cards-og-image.webp",
     "content/test-cards.md",
@@ -199,7 +202,6 @@
     "public/icon-header-1.png",
     "quartz/static/icon-header.png",
     "public/index-og-image.webp",
-    "templates/Untitled.md",
     "README.md",
     "conflict-files-obsidian-git.md",
     "content/quotes.md",

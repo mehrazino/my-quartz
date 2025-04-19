@@ -13,5 +13,3 @@ cover:
 socialImage: 
 aliases:
 ---
-
-## 
