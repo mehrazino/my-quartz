@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/وبلاگ/20.md",
+                "file": "content/وبلاگ/test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20"
+              "title": "test"
             }
           }
         ],
@@ -186,6 +186,7 @@
   },
   "active": "f40bdc2440bce91e",
   "lastOpenFiles": [
+    "content/وبلاگ/20.md",
     "quartz/plugins/emitters/persianRedirects.ts",
     "quartz/util/transliterate.ts",
     "public/وبلاگ/20-og-image.webp",
@@ -193,7 +194,6 @@
     "public/Untitled-og-image.webp",
     "public/Untitled.html",
     "content/وبلاگ/تغییرات-قالب-سایت.md",
-    "content/وبلاگ/20.md",
     "content/وبلاگ/test.md",
     "content/icon-header.png",
     "public/tags/ok.html",
@@ -204,7 +204,6 @@
     "public/tags/فنی.html",
     "2025-04-17.md",
     "quartz/components/PersianNumbers.tsx",
-    "quartz/components/scripts/persianNumbers.inline.ts",
     "public/test-cards-og-image.webp",
     "content/test-cards.md",
     "public/icon-header.png",

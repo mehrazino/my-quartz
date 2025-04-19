@@ -101,6 +101,39 @@ footer {
     margin-top: 1rem !important;
 }
 
+/* تغییر رنگ هایلایت لمسی (tap highlight) در موبایل */
+* {
+  -webkit-tap-highlight-color: rgba(var(--secondary-rgb), 0.25) !important;
+}
+
+/* تنظیمات خاص برای دکمه‌ها و کارت‌ها */
+.menu-card, button, .floating-button, .darkmode, a {
+  -webkit-tap-highlight-color: rgba(var(--secondary-rgb), 0.25) !important;
+}
+
+/* تنظیمات برای کاهش فضای خالی در موبایل */
+@media (max-width: 600px) {
+    .page > #quartz-body {
+        margin-top: 0 !important;
+    }
+    
+    /* کاهش فاصله تایتل از بالای صفحه */
+    header {
+        padding-top: 0.5rem !important;
+        padding-bottom: 0.5rem !important;
+    }
+    
+    /* کاهش فاصله در sidebar */
+    .sidebar.left {
+        margin-top: 0 !important;
+    }
+    
+    /* افزایش فاصله بین عنوان و نوار جستجو */
+    header h2 {
+        margin-bottom: 0.75rem !important;
+    }
+}
+
 /* Social links styling */
 .social-links {
     display: flex !important;

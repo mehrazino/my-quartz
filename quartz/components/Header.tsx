@@ -26,7 +26,7 @@ header h2 {
 @media (max-width: 600px) {
   header {
     flex-direction: column;
-    gap: 0.5rem;
+    gap: 1rem;
   }
   
   header h2 {

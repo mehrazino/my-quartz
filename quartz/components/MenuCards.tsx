@@ -19,7 +19,7 @@ const MenuCards: QuartzComponent = ({ fileData, displayClass, cfg }: QuartzCompo
           <span>درباره من</span>
         </a>
         
-        <a href={baseDir + "/وبلاگ"} class="menu-card">
+        <a href={baseDir + "/وبلاگ/"} class="menu-card">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
             <rect x="4" y="2" width="16" height="20" rx="2" ry="2"></rect>
             <line x1="16" y1="8" x2="8" y2="8"></line>
@@ -37,7 +37,7 @@ const MenuCards: QuartzComponent = ({ fileData, displayClass, cfg }: QuartzCompo
           <span>گفتارها</span>
         </a>
         
-        <a href={baseDir + "/کتاب‌ها"} class="menu-card">
+        <a href={baseDir + "/کتاب/"} class="menu-card">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
             <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/>
             <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/>
@@ -53,7 +53,7 @@ MenuCards.css = `
 .menu-cards {
   display: flex;
   flex-direction: column;
-  gap: 1.5rem;
+  gap: 0.75rem;
   margin: 0.75rem 0;
   width: 100%;
 }
@@ -62,7 +62,7 @@ MenuCards.css = `
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-bottom: 1rem;
+  margin-bottom: 0.75rem;
 }
 
 .site-logo {
@@ -128,6 +128,8 @@ MenuCards.css = `
     padding: 0 1rem;
     box-sizing: border-box;
     align-items: center;
+    margin: 0;
+    gap: 0.75rem;
   }
 
   .menu-row {
@@ -164,6 +166,10 @@ MenuCards.css = `
   
   .site-logo {
     width: 200px;
+  }
+  
+  .logo-container {
+    margin-bottom: 0.75rem;
   }
 }
 `

@@ -145,6 +145,10 @@ ${stylesheet.join("\n\n")}
   --tertiary: ${theme.colors.lightMode.tertiary};
   --highlight: ${theme.colors.lightMode.highlight};
   --textHighlight: ${theme.colors.lightMode.textHighlight};
+  
+  /* RGB values for CSS functions */
+  --secondary-rgb: ${hexToRgb(theme.colors.lightMode.secondary)};
+  --tertiary-rgb: ${hexToRgb(theme.colors.lightMode.tertiary)};
 
   --titleFont: "${getFontSpecificationName(theme.typography.title || theme.typography.header)}", ${DEFAULT_SANS_SERIF};
   --headerFont: "${getFontSpecificationName(theme.typography.header)}", ${DEFAULT_SANS_SERIF};
@@ -162,6 +166,24 @@ ${stylesheet.join("\n\n")}
   --tertiary: ${theme.colors.darkMode.tertiary};
   --highlight: ${theme.colors.darkMode.highlight};
   --textHighlight: ${theme.colors.darkMode.textHighlight};
+  
+  /* RGB values for CSS functions */
+  --secondary-rgb: ${hexToRgb(theme.colors.darkMode.secondary)};
+  --tertiary-rgb: ${hexToRgb(theme.colors.darkMode.tertiary)};
 }
 `
+}
+
+/* Helper function to convert hex color to RGB format */
+function hexToRgb(hex: string): string {
+  // Remove the hash if it exists
+  hex = hex.replace(/^#/, '');
+  
+  // Parse the hex values
+  const bigint = parseInt(hex, 16);
+  const r = (bigint >> 16) & 255;
+  const g = (bigint >> 8) & 255;
+  const b = bigint & 255;
+  
+  return `${r}, ${g}, ${b}`;
 }

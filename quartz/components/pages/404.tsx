@@ -8,7 +8,7 @@ const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
 
   return (
     <article class="popover-hint not-found-page">
-      <h1>گشتم نبود نگرد نیست!</h1>
+      <h2>گشتم نبود نگرد نیست!</h2>
       <p>{i18n(cfg.locale).pages.error.notFound}</p>
       <a href={baseDir} class="back-to-home">
         <span>{i18n(cfg.locale).pages.error.home}</span>

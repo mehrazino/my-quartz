@@ -11,13 +11,13 @@ const config: QuartzConfig = {
     pageTitle: "مهراز آزاد",
     pageTitleSuffix: "",
     enableSPA: true,
-    // enablePopovers: true, // پیش‌نمایش لینک‌های داخلی غیرفعال شده است
+    // enablePopovers: true, // Preview of internal links is disabled
     enablePopovers: false,
     analytics: {
       provider: "plausible",
     },
     locale: "fa-IR",
-    baseUrl: "mehrazino.github.io/my-quartz/",
+    baseUrl: "mehrazino.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
