@@ -4,5 +4,8 @@
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "justify"
-  ]
+  ],
+  "cssTheme": "",
+  "accentColor": "#008f37",
+  "baseFontSize": 17
 }

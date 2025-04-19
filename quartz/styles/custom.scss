@@ -206,7 +206,10 @@ p > img + em {
   display: block !important;
 }
 
-/* Remove green bar next to blockquotes */
+/* Add green borders on both sides of blockquotes */
 blockquote {
-  border-left: none;
+  border-left: 3px solid var(--secondary);
+  border-right: 3px solid var(--secondary);
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
