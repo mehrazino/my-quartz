@@ -13,7 +13,7 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
-        {/* محتوای فوتر حذف شد */}
+        {/* Footer content removed */}
       </footer>
     )
   }

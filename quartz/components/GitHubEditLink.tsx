@@ -11,7 +11,7 @@ interface GitHubEditLinkOptions {
 
 export default ((opts?: Partial<GitHubEditLinkOptions>) => {
   const GitHubEditLink = ({ fileData, displayClass }: QuartzComponentProps) => {
-    // صفحه اصلی را نادیده می‌گیریم
+    // Skip home page
     if (fileData.slug === "index") {
       return null
     }
@@ -24,10 +24,10 @@ export default ((opts?: Partial<GitHubEditLinkOptions>) => {
     const filePath = fileData.filePath
     if (!filePath) return null
     
-    // بررسی و اصلاح مسیر فایل (حذف "content/" اضافی از ابتدای مسیر)
+    // Check and clean file path (remove extra "content/" from the beginning)
     let cleanFilePath = filePath
     if (filePath.startsWith(`${contentPath}/`)) {
-      cleanFilePath = filePath.substring(contentPath.length + 1) // +1 برای حذف / بعد از content
+      cleanFilePath = filePath.substring(contentPath.length + 1) // +1 to remove / after content
     }
     
     const editUrl = `${repoUrl}/blob/${branch}/${contentPath}/${cleanFilePath}`

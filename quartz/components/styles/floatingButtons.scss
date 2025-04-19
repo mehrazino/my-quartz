@@ -83,7 +83,7 @@
     }
   }
   
-  // تنظیمات برای نمایش تولتیپ در سمت راست برای دکمه‌های سمت چپ
+  // Settings for tooltip display on the right side for left-aligned buttons
   .floating-left {
     .floating-button .floating-button-tooltip {
       right: auto;
@@ -98,9 +98,9 @@
     }
   }
   
-  // تنظیمات واکنش‌گرا برای دستگاه‌های موبایل
+  // Responsive settings for mobile devices
   @media (max-width: 600px) {
     .floating-buttons {
-      display: none; // مخفی کردن کامل دکمه‌های شناور در موبایل
+      display: none; // Hide floating buttons completely on mobile
     }
   } 

@@ -37,7 +37,7 @@
     }
   }
   
-  /* استایل گیت‌هاب */
+  /* GitHub style */
   .github-button {
     svg {
       fill: var(--darkgray);
@@ -54,7 +54,7 @@
     }
   }
   
-  /* استایل تلگرام */
+  /* Telegram style */
   .telegram-button {
     svg {
       fill: var(--darkgray);
@@ -103,7 +103,7 @@
     opacity: 1;
   }
   
-  /* مخفی کردن دکمه‌ها در نمای موبایل */
+  /* Hide buttons in mobile view */
   @media (max-width: 768px) {
     display: none;
   }

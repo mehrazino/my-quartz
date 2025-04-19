@@ -101,34 +101,34 @@ footer {
     margin-top: 1rem !important;
 }
 
-/* تغییر رنگ هایلایت لمسی (tap highlight) در موبایل */
+/* Change mobile tap highlight color */
 * {
   -webkit-tap-highlight-color: rgba(var(--secondary-rgb), 0.25) !important;
 }
 
-/* تنظیمات خاص برای دکمه‌ها و کارت‌ها */
+/* Custom settings for buttons and cards */
 .menu-card, button, .floating-button, .darkmode, a {
   -webkit-tap-highlight-color: rgba(var(--secondary-rgb), 0.25) !important;
 }
 
-/* تنظیمات برای کاهش فضای خالی در موبایل */
+/* Settings for reducing empty space on mobile */
 @media (max-width: 600px) {
     .page > #quartz-body {
         margin-top: 0 !important;
     }
     
-    /* کاهش فاصله تایتل از بالای صفحه */
+    /* Reduce title distance from top of page */
     header {
         padding-top: 0.5rem !important;
         padding-bottom: 0.5rem !important;
     }
     
-    /* کاهش فاصله در sidebar */
+    /* Reduce spacing in sidebar */
     .sidebar.left {
         margin-top: 0 !important;
     }
     
-    /* افزایش فاصله بین عنوان و نوار جستجو */
+    /* Increase spacing between title and search bar */
     header h2 {
         margin-bottom: 0.75rem !important;
     }
@@ -204,4 +204,9 @@ pre:has(> code.mermaid) {
 p > img + em {
   text-align: center !important;
   display: block !important;
+}
+
+/* Remove green bar next to blockquotes */
+blockquote {
+  border-left: none;
 }

@@ -15,7 +15,7 @@ export default ((opts?: SocialButtonsOptions) => {
     return (
       <div class={classNames(displayClass, "social-floating-buttons")}>
         <div class="button-group">
-          {/* گیت‌هاب */}
+          {/* GitHub */}
           <a 
             href={githubUrl}
             class="floating-button github-button"
@@ -29,7 +29,7 @@ export default ((opts?: SocialButtonsOptions) => {
             </svg>
           </a>
           
-          {/* تلگرام */}
+          {/* Telegram */}
           <a 
             href={telegramUrl}
             class="floating-button telegram-button"
