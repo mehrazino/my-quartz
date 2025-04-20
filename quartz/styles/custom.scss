@@ -213,3 +213,9 @@ blockquote {
   padding-left: 1rem;
   padding-right: 1rem;
 }
+
+/* Increase size of external link icons */
+a.external .external-icon {
+  height: 1.5ex;
+  width: 1.5ex;
+}

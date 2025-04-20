@@ -15,7 +15,7 @@
               "state": {
                 "file": "content/گفتارها.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "گفتارها"
