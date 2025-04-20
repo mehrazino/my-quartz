@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ae6e708926a2a369",
+        "id": "42e1239a6fdabdbf",
         "type": "tabs",
         "children": [
           {
-            "id": "0b64e19baf03583e",
+            "id": "274076a558610a04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/گفتارها.md",
+                "file": "content/وبلاگ/هکر کیست.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "گفتارها"
+              "title": "هکر کیست"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/quotes.md",
+                "file": "content/وبلاگ/هکر کیست.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for quotes"
+              "title": "Backlinks for هکر کیست"
             }
           },
           {
@@ -169,51 +169,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b64e19baf03583e",
+  "active": "274076a558610a04",
   "lastOpenFiles": [
     "content/درباره.md",
-    "content/وبلاگ/موزه‌ی دهکده جهانی.md",
+    "content/وبلاگ/هکر کیست.md",
+    "public/attachments/Pasted-image-20250420082254.png",
+    "public/attachments/Pasted-image-20250420083510.png",
+    "content/attachments/Pasted image 20250420083510.png",
+    "public/attachments/Pasted-image-20250420081731.png",
+    "content/attachments/Pasted image 20250420082254.png",
+    "content/attachments/Pasted image 20250420081731.png",
+    "public/attachments/Pasted-image-20250420081539.png",
+    "content/attachments/Pasted image 20250420081539.png",
+    "public/وبلاگ/هکر-کیست.html",
+    "public/attachments/Pasted-image-20250420075737.png",
+    "public/attachments",
+    "public/tags/hacker_ethic.html",
+    "content/گفتارها.md",
+    "content/attachments",
+    "().md",
+    "content/attachments/Pasted image 20250420075737.png",
     "content/وبلاگ/test.md",
+    "content/وبلاگ/موزه‌ی دهکده جهانی.md",
     "content/کتاب/test.md",
     "content/index.md",
     "templates/Untitled.md",
-    "content/گفتارها.md",
     "public/scripts/rtl-blockquotes.js",
     "public/scripts",
     "quartz/components/scripts/rtl-blockquotes.js",
-    "public/گفتارها-og-image.webp",
     "content/وبلاگ/20.md",
     "private/TODO.md",
     "private",
     "quartz/plugins/emitters/persianRedirects.ts",
     "quartz/util/transliterate.ts",
-    "public/وبلاگ/20-og-image.webp",
-    "public/وبلاگ/20.html",
-    "public/Untitled-og-image.webp",
-    "public/Untitled.html",
     "content/وبلاگ/تغییرات-قالب-سایت.md",
-    "content/icon-header.png",
-    "public/tags/ok.html",
-    "public/tags/للل.html",
     "2025-04-17.md",
-    "public/test-cards-og-image.webp",
     "content/test-cards.md",
-    "public/icon-header.png",
-    "public/icon-header-1.png",
-    "quartz/static/icon-header.png",
-    "public/index-og-image.webp",
     "README.md",
     "conflict-files-obsidian-git.md",
     "content/quotes.md",
     "content/about.md",
-    "public/about-og-image.webp",
     "content/weblog/test.md",
     "content/weblog/Untitled.md",
     "content/technology/ai-trends.md",
     "content/technology/web-development.md",
     "content/lifestyle/digital-minimalism.md",
     "content/lifestyle/healthy-habits.md",
-    "content/lifestyle/travel-tips.md",
-    "content/weblog/2024-03-28.md"
+    "content/lifestyle/travel-tips.md"
   ]
 }

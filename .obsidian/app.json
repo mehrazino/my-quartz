@@ -1,12 +1,13 @@
 {
   "showUnsupportedFiles": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "content/weblog",
+  "newFileFolderPath": "content/وبلاگ",
   "alwaysUpdateLinks": true,
   "strictLineBreaks": true,
   "showLineNumber": false,
   "foldHeading": true,
   "spellcheck": false,
   "showInlineTitle": false,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "attachmentFolderPath": "content/attachments"
 }
