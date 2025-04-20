@@ -3,7 +3,7 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "content/وبلاگ",
   "alwaysUpdateLinks": true,
-  "strictLineBreaks": true,
+  "strictLineBreaks": false,
   "showLineNumber": false,
   "foldHeading": true,
   "spellcheck": false,

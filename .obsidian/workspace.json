@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "42e1239a6fdabdbf",
+        "id": "f12ed4122df9c18e",
         "type": "tabs",
         "children": [
           {
-            "id": "274076a558610a04",
+            "id": "f9e73d477bd30cf4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/وبلاگ/هکر کیست.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "هکر کیست"
+              "title": "New tab"
             }
           }
         ]
@@ -169,10 +165,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "274076a558610a04",
+  "active": "f9e73d477bd30cf4",
   "lastOpenFiles": [
-    "content/درباره.md",
+    "content/گفتارها.md",
     "content/وبلاگ/هکر کیست.md",
+    "public/tags/اخلاق_هکرها.html",
+    "content/درباره.md",
     "public/attachments/Pasted-image-20250420082254.png",
     "public/attachments/Pasted-image-20250420083510.png",
     "content/attachments/Pasted image 20250420083510.png",
@@ -185,7 +183,6 @@
     "public/attachments/Pasted-image-20250420075737.png",
     "public/attachments",
     "public/tags/hacker_ethic.html",
-    "content/گفتارها.md",
     "content/attachments",
     "().md",
     "content/attachments/Pasted image 20250420075737.png",
@@ -201,7 +198,6 @@
     "private/TODO.md",
     "private",
     "quartz/plugins/emitters/persianRedirects.ts",
-    "quartz/util/transliterate.ts",
     "content/وبلاگ/تغییرات-قالب-سایت.md",
     "2025-04-17.md",
     "content/test-cards.md",
