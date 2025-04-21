@@ -8,6 +8,6 @@
   "foldHeading": true,
   "spellcheck": false,
   "showInlineTitle": false,
-  "rightToLeft": false,
+  "rightToLeft": true,
   "attachmentFolderPath": "content/attachments"
 }

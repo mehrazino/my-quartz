@@ -1,0 +1,50 @@
+{
+  "logoType": "imagePath",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "public/static/icon-header.png",
+    "imageLink": ""
+  },
+  "logoScale": 3,
+  "iconColorType": "default",
+  "wordmark": "",
+  "customFont": "textFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": true,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "content/وبلاگ/همه جوامع دموکراتیک هستند.md",
+      "timestamp": 1745241920104
+    },
+    {
+      "filepath": "content/وبلاگ/ریلکس باش.md",
+      "timestamp": 1745241913850
+    },
+    {
+      "filepath": "content/وبلاگ/هکر کیست.md",
+      "timestamp": 1745241909910
+    },
+    {
+      "filepath": "content/وبلاگ/مقدمه کل.md",
+      "timestamp": 1745241858145
+    }
+  ],
+  "bookmarkedFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": true,
+  "closePreviousSessionTabs": true,
+  "omnisearch": false,
+  "showOmnisearchExcerpt": true
+}

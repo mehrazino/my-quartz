@@ -219,3 +219,22 @@ a.external .external-icon {
   height: 1.5ex;
   width: 1.5ex;
 }
+
+/* Center page titles */
+.page-header h1 {
+  text-align: center;
+}
+
+/* Align tags with text content from right side */
+.tags {
+  padding-right: 0rem;
+}
+
+/* Responsive page titles for mobile */
+@media (max-width: 600px) {
+  .page-header h1 {
+    font-size: clamp(1.2rem, 5vw, 1.8rem);
+    word-wrap: break-word;
+    hyphens: auto;
+  }
+}
