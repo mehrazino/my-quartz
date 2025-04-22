@@ -68,7 +68,7 @@ export default {
       home: "بازگشت به صفحه اصلی",
     },
     folderContent: {
-      folder: "پوشه",
+      folder: "",
       itemsUnderFolder: ({ count }) =>
         count === 1 ? ".یک مطلب در این پوشه است" : `${count} مطلب در این پوشه است.`,
     },
