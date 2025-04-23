@@ -47,7 +47,7 @@ export const sharedPageComponents: SharedLayout = {
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
-      component: Component.Breadcrumbs({rootName: "خانه",}),
+      component: Component.Breadcrumbs({rootName: "خانه", showCurrentPage: false}),
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ConditionalRender({
@@ -75,7 +75,7 @@ export const defaultContentPageLayout: PageLayout = {
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [
-    Component.Breadcrumbs({rootName: "خانه",}), 
+    Component.Breadcrumbs({rootName: "خانه", showCurrentPage: false}), 
     Component.ArticleTitle(), 
     Component.ContentMeta({
       showReadingTime: false,
