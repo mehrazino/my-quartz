@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f0a1131bc2756d56",
+            "id": "2d22c2a44c0e1e3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/گفتارها.md",
+                "file": "content/وبلاگ/من و جامعه امنیت سایبری ایران.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "گفتارها"
+              "title": "من و جامعه امنیت سایبری ایران"
             }
           }
         ]
@@ -169,18 +169,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0a1131bc2756d56",
+  "active": "2d22c2a44c0e1e3f",
   "lastOpenFiles": [
-    "content/وبلاگ/اثر منفی مرکب.md",
     "content/وبلاگ/همه جوامع دموکراتیک هستند.md",
+    "content/گفتارها.md",
+    "content/وبلاگ/2025-04-24.md",
+    "content/وبلاگ/من و جامعه امنیت سایبری ایران.md",
+    "private/TODO.md",
+    "content/درباره.md",
+    "content/وبلاگ/اثر منفی مرکب.md",
     "content/وبلاگ/هکر کیست.md",
     "content/وبلاگ/فاز برندار!.md",
     "content/وبلاگ/مقدمه کل.md",
-    "content/گفتارها.md",
-    "content/وبلاگ/من و community.md",
-    "content/درباره.md",
     "content/index.md",
-    "private/TODO.md",
     "content/وبلاگ/().md",
     "content/وبلاگ/Untitled.md",
     "content/attachments/Pasted image 20250421103323.png",
@@ -215,7 +216,6 @@
     "content/وبلاگ/test.md",
     "content/وبلاگ/موزه‌ی دهکده جهانی.md",
     "content/کتاب/test.md",
-    "content/وبلاگ/20.md",
-    "content/وبلاگ/تغییرات-قالب-سایت.md"
+    "content/وبلاگ/20.md"
   ]
 }
