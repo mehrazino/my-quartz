@@ -11,10 +11,14 @@
             "id": "eef60baf954de8de",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "content/وبلاگ/من و community.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "من و community"
             }
           }
         ]
@@ -168,6 +172,7 @@
   "active": "eef60baf954de8de",
   "lastOpenFiles": [
     "content/وبلاگ/همه جوامع دموکراتیک هستند.md",
+    "content/گفتارها.md",
     "content/وبلاگ/اثر منفی مرکب.md",
     "content/وبلاگ/من و community.md",
     "content/وبلاگ/هکر کیست.md",
@@ -186,7 +191,6 @@
     "content/attachments/Pasted image 20250420083510.png",
     "content/attachments/Pasted image 20250420081731.png",
     "content/attachments/Pasted image 20250421103323.png.~tmp",
-    "content/گفتارها.md",
     "public/وبلاگ/فاز-برندار!.html",
     "public/وبلاگ/من-و-community.html",
     "public/tags/community_notes.html",
