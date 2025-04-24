@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/وبلاگ/من و community.md",
+                "file": "content/وبلاگ/مقدمه کل.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "من و community"
+              "title": "مقدمه کل"
             }
           }
         ]
@@ -171,9 +171,10 @@
   },
   "active": "df77a25a99cf747e",
   "lastOpenFiles": [
+    "content/گفتارها.md",
+    "private/TODO.md",
     "content/وبلاگ/من و community.md",
     "content/وبلاگ/همه جوامع دموکراتیک هستند.md",
-    "content/گفتارها.md",
     "content/وبلاگ/اثر منفی مرکب.md",
     "content/وبلاگ/هکر کیست.md",
     "content/وبلاگ/مقدمه کل.md",
@@ -208,7 +209,6 @@
     "node_modules/parse-css-color/CHANGELOG.md",
     "node_modules/chalk/readme.md",
     "templates/Untitled.md",
-    "private/TODO.md",
     "content/درباره.md",
     "().md",
     "content/وبلاگ/test.md",
