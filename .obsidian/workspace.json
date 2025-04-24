@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "578b71683823eab7",
+        "id": "7f26e4f73360b2fd",
         "type": "tabs",
         "children": [
           {
-            "id": "eef60baf954de8de",
+            "id": "2e60e17233360f8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,7 +169,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eef60baf954de8de",
+  "active": "2e60e17233360f8b",
   "lastOpenFiles": [
     "content/وبلاگ/همه جوامع دموکراتیک هستند.md",
     "content/وبلاگ/من و community.md",
