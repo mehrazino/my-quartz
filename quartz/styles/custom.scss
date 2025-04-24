@@ -208,12 +208,18 @@ p > img + em {
 
 /* Customize blockquotes with light gray background and no borders */
 blockquote {
-  border-left: none;
-  border-right: none;
-  background-color: var(--lightgray);
-  padding: 1rem;
-  border-radius: 5px;
-  margin: 1rem 0;
+  border-left: none !important;
+  border-right: none !important;
+  background-color: var(--lightgray) !important;
+  padding: 1rem !important;
+  border-radius: 5px !important;
+  margin: 1rem 0 !important;
+  text-align: center !important;
+}
+
+/* Make sure all content inside blockquotes is centered */
+blockquote p {
+  text-align: center !important;
 }
 
 /* Increase size of external link icons */
