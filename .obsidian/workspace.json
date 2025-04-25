@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f51635b8083d7649",
+            "id": "d778f88e20868698",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "content/وبلاگ/اثر منفی مرکب.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "اثر منفی مرکب"
             }
           }
         ]
@@ -165,13 +169,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f51635b8083d7649",
+  "active": "d778f88e20868698",
   "lastOpenFiles": [
+    "private/TODO.md",
     "content/وبلاگ/من و جامعه امنیت سایبری ایران.md",
+    "public/وبلاگ/من-و-جامعه-امنیت-سایبری-ایران-og-image.webp",
+    "public/وبلاگ/من-و-جامعه-امنیت-سایبری-ایران.html",
     "content/وبلاگ/همه جوامع دموکراتیک هستند.md",
     "content/گفتارها.md",
     "content/وبلاگ/2025-04-24.md",
-    "private/TODO.md",
     "content/درباره.md",
     "content/وبلاگ/اثر منفی مرکب.md",
     "content/وبلاگ/هکر کیست.md",
@@ -189,7 +195,6 @@
     "content/attachments/Pasted image 20250421091452.png",
     "content/attachments/Pasted image 20250420075737.png",
     "content/attachments/Pasted image 20250420083510.png",
-    "content/attachments/Pasted image 20250420081731.png",
     "content/attachments/Pasted image 20250421103323.png.~tmp",
     "public/وبلاگ/فاز-برندار!.html",
     "public/وبلاگ/من-و-community.html",
@@ -199,7 +204,6 @@
     "public/وبلاگ/همه-جوامع-دموکراتیک-هستند.html",
     "public/وبلاگ/ریلکس-باش.html",
     "public/وبلاگ/ریلکس-باش..html",
-    "public/وبلاگ/مقدمه-کل.html",
     "node_modules/tslib/README.md",
     "node_modules/typescript/README.md",
     "node_modules/gray-matter/node_modules/argparse/CHANGELOG.md",
@@ -211,7 +215,6 @@
     "().md",
     "content/وبلاگ/test.md",
     "content/وبلاگ/موزه‌ی دهکده جهانی.md",
-    "content/کتاب/test.md",
-    "content/وبلاگ/20.md"
+    "content/کتاب/test.md"
   ]
 }
