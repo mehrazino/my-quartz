@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d778f88e20868698",
+            "id": "baa5bb432d9425c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/وبلاگ/اثر منفی مرکب.md",
+                "file": "content/وبلاگ/همه جوامع دموکراتیک هستند.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "اثر منفی مرکب"
+              "title": "همه جوامع دموکراتیک هستند"
             }
           }
         ]
@@ -169,20 +169,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d778f88e20868698",
+  "active": "baa5bb432d9425c1",
   "lastOpenFiles": [
-    "private/TODO.md",
+    "content/وبلاگ/اثر منفی مرکب.md",
+    "content/وبلاگ/همه جوامع دموکراتیک هستند.md",
+    "content/وبلاگ/مقدمه کل.md",
     "content/وبلاگ/من و جامعه امنیت سایبری ایران.md",
+    "content/وبلاگ/هکر کیست.md",
+    "private/TODO.md",
     "public/وبلاگ/من-و-جامعه-امنیت-سایبری-ایران-og-image.webp",
     "public/وبلاگ/من-و-جامعه-امنیت-سایبری-ایران.html",
-    "content/وبلاگ/همه جوامع دموکراتیک هستند.md",
     "content/گفتارها.md",
     "content/وبلاگ/2025-04-24.md",
     "content/درباره.md",
-    "content/وبلاگ/اثر منفی مرکب.md",
-    "content/وبلاگ/هکر کیست.md",
     "content/وبلاگ/فاز برندار!.md",
-    "content/وبلاگ/مقدمه کل.md",
     "content/index.md",
     "content/وبلاگ/().md",
     "content/وبلاگ/Untitled.md",
