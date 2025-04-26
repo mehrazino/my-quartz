@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7f26e4f73360b2fd",
+        "id": "8659c30e3d4a7497",
         "type": "tabs",
         "children": [
           {
-            "id": "30941bcad9f88d32",
+            "id": "30c590a49c448140",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/وبلاگ/من و جامعه امنیت سایبری ایران.md",
+                "file": "content/گفتارها.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "من و جامعه امنیت سایبری ایران"
+              "title": "گفتارها"
             }
           }
         ]
@@ -169,20 +169,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "30941bcad9f88d32",
+  "active": "30c590a49c448140",
   "lastOpenFiles": [
-    "content/گفتارها.md",
-    "content/وبلاگ/همه جوامع دموکراتیک هستند.md",
-    "content/وبلاگ/2025-04-26.md",
-    "content/وبلاگ/مقدمه کل.md",
-    "content/وبلاگ/اثر منفی مرکب.md",
+    "content/درباره.md",
     "content/وبلاگ/من و جامعه امنیت سایبری ایران.md",
+    "content/وبلاگ/همه جوامع دموکراتیک هستند.md",
+    "content/وبلاگ/مقدمه کل.md",
+    "content/گفتارها.md",
+    "content/وبلاگ/2025-04-26.md",
+    "content/وبلاگ/اثر منفی مرکب.md",
     "content/وبلاگ/هکر کیست.md",
     "private/TODO.md",
     "public/وبلاگ/من-و-جامعه-امنیت-سایبری-ایران-og-image.webp",
     "public/وبلاگ/من-و-جامعه-امنیت-سایبری-ایران.html",
     "content/وبلاگ/2025-04-24.md",
-    "content/درباره.md",
     "content/وبلاگ/فاز برندار!.md",
     "content/index.md",
     "content/وبلاگ/().md",
