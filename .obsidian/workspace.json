@@ -11,10 +11,14 @@
             "id": "0adeb6340cf795ac",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "content/وبلاگ/هکر کیست.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "هکر کیست"
             }
           }
         ]
@@ -167,12 +171,12 @@
   },
   "active": "0adeb6340cf795ac",
   "lastOpenFiles": [
+    "content/وبلاگ/فاز برندار!.md",
+    "content/وبلاگ/من و جامعه امنیت سایبری ایران.md",
+    "content/وبلاگ/مشکلات فراکتالی.md",
     "content/وبلاگ/مقدمه کل.md",
     "content/وبلاگ/همه جوامع دموکراتیک هستند.md",
     "content/وبلاگ/هکر کیست.md",
-    "content/وبلاگ/من و جامعه امنیت سایبری ایران.md",
-    "content/وبلاگ/مشکلات فراکتالی.md",
-    "content/وبلاگ/فاز برندار!.md",
     "content/index.md",
     "content/گفتارها.md",
     "public/attachments/895732-Mike-Franchina-artwork-dark.jpg",
