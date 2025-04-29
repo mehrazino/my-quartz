@@ -1,5 +1,5 @@
 {
-  "logoType": "imagePath",
+  "logoType": "none",
   "logo": {
     "lucideIcon": "",
     "imagePath": "public/static/icon-header.png",
@@ -15,7 +15,7 @@
   "maxResults": 5,
   "showbookmarkedFiles": true,
   "showRecentFiles": true,
-  "maxRecentFiles": 5,
+  "maxRecentFiles": 10,
   "storeRecentFile": true,
   "showPath": true,
   "selectionHighlight": "default",
@@ -24,16 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "content/وبلاگ/هکر کیست.md",
-      "timestamp": 1745767422329
+      "filepath": "content/index.md",
+      "timestamp": 1745928931856
     },
     {
-      "filepath": "content/وبلاگ/مشکلات فراکتالی.md",
-      "timestamp": 1745767422024
-    },
-    {
-      "filepath": "content/وبلاگ/من و جامعه امنیت سایبری ایران.md",
-      "timestamp": 1745767415665
+      "filepath": "content/گفتارها.md",
+      "timestamp": 1745928630991
     }
   ],
   "bookmarkedFileStore": [],

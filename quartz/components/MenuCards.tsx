@@ -7,9 +7,9 @@ const MenuCards: QuartzComponent = ({ fileData, displayClass, cfg }: QuartzCompo
   
   return (
     <div class={classNames(displayClass, "menu-cards")}>
-      <div class="logo-container">
+      {/* <div class="logo-container">
         <img src={baseDir + "/static/icon-header.png"} alt="لوگوی وبسایت" class="site-logo" />
-      </div>
+      </div> */}
       <div class="menu-row">
         <a href={baseDir + "/درباره"} class="menu-card">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
