@@ -24,12 +24,20 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "content/وبلاگ/همه جوامع دموکراتیک هستند.md",
-      "timestamp": 1745930655176
+      "filepath": "content/index.md",
+      "timestamp": 1745938264043
     },
     {
-      "filepath": "content/وبلاگ/هکر کیست.md",
-      "timestamp": 1745930654277
+      "filepath": "content/وبلاگ/مقدمه کل.md",
+      "timestamp": 1745938261022
+    },
+    {
+      "filepath": "content/وبلاگ/فاز برندار!.md",
+      "timestamp": 1745938260043
+    },
+    {
+      "filepath": "content/وبلاگ/مشکلات فراکتالی.md",
+      "timestamp": 1745938258837
     }
   ],
   "bookmarkedFileStore": [],
