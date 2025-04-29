@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "مهراز آزاد",
+    pageTitle: "وبلاگ مهراز",
     pageTitleSuffix: "",
     enableSPA: true,
     // enablePopovers: true, // Preview of internal links is disabled
