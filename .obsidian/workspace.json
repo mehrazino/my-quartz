@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f3ddb6660f736547",
+        "id": "f8570b29f7967c76",
         "type": "tabs",
         "children": [
           {
-            "id": "009dc96794b8e685",
+            "id": "574b09e9f734aec0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,21 +169,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "009dc96794b8e685",
+  "active": "574b09e9f734aec0",
   "lastOpenFiles": [
-    "content/وبلاگ/همه جوامع دموکراتیک هستند.md",
-    "content/وبلاگ/از خودمون شروع کنیم.md",
-    "content/گفتارها.md",
-    "content/وبلاگ/هکر کیست.md",
-    "content/index.md",
+    "content/وبلاگ/مشکلات فراکتالی.md",
+    "content/وبلاگ/بازی کلمات.md",
     "private/TODO.md",
+    "templates/Untitled.md",
+    "content/index.md",
+    "content/وبلاگ/هکر کیست.md",
+    "content/وبلاگ/از خودمون شروع کنیم.md",
+    "content/وبلاگ/همه جوامع دموکراتیک هستند.md",
+    "content/گفتارها.md",
     "content/وبلاگ/اثر منفی مرکب.md",
     "content/وبلاگ/من و جامعه امنیت سایبری ایران.md",
     "content/وبلاگ/مقدمه کل.md",
     "public/Mike-Franchina-Crusade.jpg",
     "content/Mike-Franchina-Crusade.jpg",
     "content/وبلاگ/فاز برندار!.md",
-    "content/وبلاگ/مشکلات فراکتالی.md",
     "public/attachments/895732-Mike-Franchina-artwork-dark.jpg",
     "content/icon-header.png",
     "content/درباره.md",
@@ -214,8 +216,6 @@
     "node_modules/parse-css-color/README.md",
     "node_modules/parse-css-color/CHANGELOG.md",
     "node_modules/chalk/readme.md",
-    "templates/Untitled.md",
-    "().md",
-    "content/وبلاگ/test.md"
+    "().md"
   ]
 }
