@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9a886159b3344354",
+        "id": "8c0d7c35215ae4eb",
         "type": "tabs",
         "children": [
           {
-            "id": "d2346a03f67ce430",
+            "id": "ceb91d8f26433137",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,8 +169,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d2346a03f67ce430",
+  "active": "ceb91d8f26433137",
   "lastOpenFiles": [
+    "content/گفتارها.md",
     "content/وبلاگ/همه جوامع دموکراتیک هستند.md",
     "content/وبلاگ/هکر کیست.md",
     "content/وبلاگ/از خودمون شروع کنیم.md",
@@ -179,7 +180,6 @@
     "private/TODO.md",
     "templates/Untitled.md",
     "content/index.md",
-    "content/گفتارها.md",
     "content/وبلاگ/اثر منفی مرکب.md",
     "content/وبلاگ/من و جامعه امنیت سایبری ایران.md",
     "content/وبلاگ/مقدمه کل.md",
