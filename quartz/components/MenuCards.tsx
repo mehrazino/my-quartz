@@ -11,15 +11,15 @@ const MenuCards: QuartzComponent = ({ fileData, displayClass, cfg }: QuartzCompo
         <img src={baseDir + "/static/icon-header.png"} alt="لوگوی وبسایت" class="site-logo" />
       </div> */}
       <div class="menu-row">
-        <a href={baseDir + "/درباره"} class="menu-card">
+        <a href={baseDir + "/about"} class="menu-card">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
             <circle cx="12" cy="8" r="5"/>
             <path d="M20 21a8 8 0 0 0-16 0"/>
           </svg>
-          <span>درباره من</span>
+          <span>دربارۀ من</span>
         </a>
         
-        <a href={baseDir + "/وبلاگ/"} class="menu-card">
+        <a href={baseDir + "/weblog/"} class="menu-card">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
             <rect x="4" y="2" width="16" height="20" rx="2" ry="2"></rect>
             <line x1="16" y1="8" x2="8" y2="8"></line>
@@ -29,7 +29,7 @@ const MenuCards: QuartzComponent = ({ fileData, displayClass, cfg }: QuartzCompo
           <span>وبلاگ</span>
         </a>
         
-        <a href={baseDir + "/گفتارها"} class="menu-card">
+        <a href={baseDir + "/quotes"} class="menu-card">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
             <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>
             <line x1="9" y1="12" x2="15" y2="12"/>
@@ -37,7 +37,7 @@ const MenuCards: QuartzComponent = ({ fileData, displayClass, cfg }: QuartzCompo
           <span>گفتارها</span>
         </a>
         
-        <a href={baseDir + "/کتاب/"} class="menu-card">
+        <a href={baseDir + "/books/"} class="menu-card">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
             <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/>
             <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/>
