@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/TODO.md",
+                "file": "content/weblog/چرا مردم ایران سخت‌کوش نیستند.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "چرا مردم ایران سخت‌کوش نیستند"
             }
           }
         ]
@@ -169,19 +169,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf3245dfc06808a9",
+  "active": "e2118588bc76ace9",
   "lastOpenFiles": [
-    "content/weblog/فاز برندار!.md",
     "content/weblog/هکر کیست.md",
+    "content/weblog/من و جامعه امنیت سایبری ایران.md",
+    "content/weblog/فاز برندار.md",
+    "content/weblog/چرا مردم ایران سخت‌کوش نیستند.md",
+    "private/TODO.md",
     "content/weblog/اثر منفی مرکب.md",
     "content/weblog/همه جوامع دموکراتیک هستند.md",
     "content/weblog/از خودمون شروع کنیم.md",
-    "content/weblog/چرا مردم ایران سخت‌کوش نیستند؟.md",
-    "content/weblog/من و جامعه امنیت سایبری ایران.md",
     "content/quotes.md",
     "content/weblog/مشکلات فراکتالی.md",
     "content/weblog/بازی کلمات.md",
-    "private/TODO.md",
     "templates/Untitled.md",
     "content/index.md",
     "content/weblog/مقدمه کل.md",
