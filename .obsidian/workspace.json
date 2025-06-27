@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8c0d7c35215ae4eb",
+        "id": "003059d58c619714",
         "type": "tabs",
         "children": [
           {
-            "id": "ceb91d8f26433137",
+            "id": "8f3862c0d6bb08c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/گفتارها.md",
+                "file": "content/وبلاگ/چرا مردم ایران سخت‌کوش نیستند؟.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "گفتارها"
+              "title": "چرا مردم ایران سخت‌کوش نیستند؟"
             }
           }
         ]
@@ -169,14 +169,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ceb91d8f26433137",
+  "active": "8f3862c0d6bb08c4",
   "lastOpenFiles": [
     "content/گفتارها.md",
+    "content/وبلاگ/چرا مردم ایران سخت‌کوش نیستند؟.md",
+    "content/وبلاگ/از خودمون شروع کنیم.md",
     "content/وبلاگ/همه جوامع دموکراتیک هستند.md",
     "content/وبلاگ/هکر کیست.md",
-    "content/وبلاگ/از خودمون شروع کنیم.md",
-    "content/وبلاگ/مشکلات فراکتالی.md",
     "content/وبلاگ/بازی کلمات.md",
+    "content/وبلاگ/مشکلات فراکتالی.md",
     "private/TODO.md",
     "templates/Untitled.md",
     "content/index.md",
@@ -215,7 +216,6 @@
     "node_modules/argparse/CHANGELOG.md",
     "node_modules/parse-css-color/README.md",
     "node_modules/parse-css-color/CHANGELOG.md",
-    "node_modules/chalk/readme.md",
-    "().md"
+    "node_modules/chalk/readme.md"
   ]
 }
