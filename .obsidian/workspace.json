@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4fb2db5eb289bd83",
+        "id": "5ef8084379c06df6",
         "type": "tabs",
         "children": [
           {
-            "id": "e2118588bc76ace9",
+            "id": "3a98917f1d3bc777",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,27 +169,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e2118588bc76ace9",
+  "active": "3a98917f1d3bc777",
   "lastOpenFiles": [
-    "content/weblog/هکر کیست.md",
+    "content/weblog/همه جوامع دموکراتیک هستند.md",
+    "content/weblog/مقدمه کل.md",
     "content/weblog/من و جامعه امنیت سایبری ایران.md",
+    "content/quotes.md",
+    "private/TODO.md",
+    "content/weblog/بازی کلمات.md",
+    "content/about.md",
     "content/weblog/فاز برندار.md",
     "content/weblog/چرا مردم ایران سخت‌کوش نیستند.md",
-    "private/TODO.md",
+    "content/weblog/هکر کیست.md",
     "content/weblog/اثر منفی مرکب.md",
-    "content/weblog/همه جوامع دموکراتیک هستند.md",
     "content/weblog/از خودمون شروع کنیم.md",
-    "content/quotes.md",
     "content/weblog/مشکلات فراکتالی.md",
-    "content/weblog/بازی کلمات.md",
     "templates/Untitled.md",
     "content/index.md",
-    "content/weblog/مقدمه کل.md",
     "public/Mike-Franchina-Crusade.jpg",
     "content/Mike-Franchina-Crusade.jpg",
     "public/attachments/895732-Mike-Franchina-artwork-dark.jpg",
     "content/icon-header.png",
-    "content/about.md",
     "public/وبلاگ/مشکلات-فراکتالی-og-image.webp",
     "public/attachments/Sierpinski_pyramid_b.gif",
     "public/attachments/Pasted-image-20250427145502.png",
