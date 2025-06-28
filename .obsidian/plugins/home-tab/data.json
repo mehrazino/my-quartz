@@ -24,8 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "content/weblog/پارادوکس رنج برای رفاه.md",
+      "timestamp": 1751111365321
+    },
+    {
       "filepath": "content/weblog/چرا مردم ایران سخت‌کوش نیستند.md",
-      "timestamp": 1751103147599
+      "timestamp": 1751107325930
     },
     {
       "filepath": "content/index.md",
@@ -54,14 +58,6 @@
     {
       "filepath": "content/weblog/بازی کلمات.md",
       "timestamp": 1751097619205
-    },
-    {
-      "filepath": "content/about.md",
-      "timestamp": 1751037792750
-    },
-    {
-      "filepath": "content/weblog/فاز برندار.md",
-      "timestamp": 1751037319636
     }
   ],
   "bookmarkedFileStore": [],
