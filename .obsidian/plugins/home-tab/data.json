@@ -25,11 +25,15 @@
   "recentFilesStore": [
     {
       "filepath": "content/weblog/پارادوکس رنج برای رفاه.md",
-      "timestamp": 1751111365321
+      "timestamp": 1751115341820
     },
     {
       "filepath": "content/weblog/چرا مردم ایران سخت‌کوش نیستند.md",
-      "timestamp": 1751107325930
+      "timestamp": 1751115332749
+    },
+    {
+      "filepath": "content/quotes.md",
+      "timestamp": 1751115329573
     },
     {
       "filepath": "content/index.md",
@@ -46,10 +50,6 @@
     {
       "filepath": "content/weblog/من و جامعه امنیت سایبری ایران.md",
       "timestamp": 1751098985839
-    },
-    {
-      "filepath": "content/quotes.md",
-      "timestamp": 1751097656379
     },
     {
       "filepath": "private/TODO.md",
