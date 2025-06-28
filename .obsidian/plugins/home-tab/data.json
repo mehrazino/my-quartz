@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "content/index.md",
+      "timestamp": 1751100407783
+    },
+    {
       "filepath": "content/weblog/چرا مردم ایران سخت‌کوش نیستند.md",
       "timestamp": 1751099198983
     },
@@ -58,10 +62,6 @@
     {
       "filepath": "content/weblog/فاز برندار.md",
       "timestamp": 1751037319636
-    },
-    {
-      "filepath": "content/weblog/هکر کیست.md",
-      "timestamp": 1751037168710
     }
   ],
   "bookmarkedFileStore": [],
