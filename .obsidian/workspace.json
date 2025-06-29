@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "91cb9dff37c9e761",
+            "id": "9e94e92efd2c07c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,20 +170,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "91cb9dff37c9e761",
+  "active": "75ab4b33360fd23b",
   "lastOpenFiles": [
+    "content/weblog/تعادل سخت‌ترین کار دنیا.md",
+    "content/weblog/پارادوکس رنج برای رفاه.md",
     "content/quotes.md",
     "content/weblog/مقدمه کل.md",
     "content/weblog/هکر کیست.md",
     "content/weblog/چرا مردم ایران سخت‌کوش نیستند.md",
-    "content/weblog/پارادوکس رنج برای رفاه.md",
     "content/weblog/همه جوامع دموکراتیک هستند.md",
     "content/weblog/از خودمون شروع کنیم.md",
     "content/weblog/بازی کلمات.md",
     "content/weblog/فاز برندار.md",
     "content/about.md",
     "content/weblog/من و جامعه امنیت سایبری ایران.md",
-    "content/weblog/تعادل سخت‌ترین کار دنیا.md",
     "[گنجور.md",
     "[چارلز.md",
     "پست مرتبط در چنل تلگرام من.md",
