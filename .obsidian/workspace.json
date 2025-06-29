@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "53e57a1dbe4dc13f",
+            "id": "47e8291bd323db5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/weblog/تعادل سخت‌ترین کار دنیا.md",
+                "file": "content/weblog/چرا مردم ایران سخت‌کوش نیستند.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "تعادل سخت‌ترین کار دنیا"
+              "title": "چرا مردم ایران سخت‌کوش نیستند"
             }
           }
         ]
@@ -169,11 +169,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53e57a1dbe4dc13f",
+  "active": "47e8291bd323db5d",
   "lastOpenFiles": [
+    "content/weblog/تعادل سخت‌ترین کار دنیا.md",
     "content/weblog/پارادوکس رنج برای رفاه.md",
     "content/weblog/چرا مردم ایران سخت‌کوش نیستند.md",
-    "content/weblog/تعادل سخت‌ترین کار دنیا.md",
     "[گنجور.md",
     "content/quotes.md",
     "[چارلز.md",
