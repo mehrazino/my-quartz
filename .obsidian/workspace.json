@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "56f18a8e3fea349f",
+        "id": "205d6808159580c8",
         "type": "tabs",
         "children": [
           {
-            "id": "5a2f6ea7043c118b",
+            "id": "a5234a06305113d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,18 +169,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a2f6ea7043c118b",
+  "active": "a5234a06305113d2",
   "lastOpenFiles": [
-    "content/weblog/پارادوکس رنج برای رفاه.md",
     "content/weblog/در باب داشتن تعادل.md",
+    "content/weblog/پارادوکس رنج برای رفاه.md",
     "content/quotes.md",
+    "content/weblog/بازی کلمات.md",
     "content/weblog/چرا مردم ایران سخت‌کوش نیستند.md",
     "content/weblog/من و جامعه امنیت سایبری ایران.md",
     "content/weblog/مقدمه کل.md",
     "content/weblog/هکر کیست.md",
     "content/weblog/همه جوامع دموکراتیک هستند.md",
     "content/weblog/از خودمون شروع کنیم.md",
-    "content/weblog/بازی کلمات.md",
     "content/weblog/فاز برندار.md",
     "content/about.md",
     "[گنجور.md",

@@ -125,7 +125,7 @@ tags:
 
 >بهتر است کسی را بخواهی و نداشته باشی، تا اینکه او را داشته باشی اما نخواهی.
 
->کسی که اجازه ظلم می‌دهد، در جنایت شریک است.
+>کسی که اجازۀ ظلم می‌دهد، در جنایت شریک است.
 
 >پختگی مرد، یعنی کشف دوبارۀ همان جدیتی که در کودکی و به هنگام بازی داشته است.
 
@@ -168,6 +168,10 @@ tags:
 >دوستی که پس از یک سوءتفاهم جزئى تبديل به دشمن مى‌شود، همیشه دشمن بوده است؛ فقط دیگر تظاهر نمی‌کند.
 
 >احمقانه‌ترین خواسته بشر این است که بخواهد با تکرار کارهای همیشگی، به نتایج متفاوت با گذشته برسد.
+
+> مَنْ مَلَكَ اسْتَأْثَرَ (هر كس قدرت به دست آورد، استبداد ورزید.) —علی ابن ابی‌طالب
+
+>هیچ مطلبی در تاریخ، پرتکرارتر از این نیست که فاتحان پس از روی کار آمدن، همان شیوه‌هایی را به کار می‌بندند که خودشان همواره، عمل به آن‌ها توسط قدرت‌‌های برکنارشده را محکوم می‌ساختند. —ویل دورانت
 
 >از نظر یک دیکتاتور، مردم دو دسته‌اند. آن‌هایی که باید گول بخورند و آن‌هایی که باید گلوله بخورند.
 
@@ -221,6 +225,8 @@ tags:
 >Common sense is not so common.
 
 >The most dangerous man to any government is the man who is able to think things out for himself, without regard to the prevailing superstitions and taboos. Almost inevitably he comes to the conclusion that the government he lives under is dishonest, insane and intolerable, and so, if he is **romantic**, he tries to change it. And even if he is not romantic personally he is very apt to spread discontent among those who are.
+
+>Power tends to corrupt; absolute power corrupts absolutely. —Lord Acton
 
 >If you can't fly, run, if you can't run, walk, if you can't walk, crawl, but by all means **keep moving**.
 
