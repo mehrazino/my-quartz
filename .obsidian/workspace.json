@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cc2f14d34ded8324",
+        "id": "56f18a8e3fea349f",
         "type": "tabs",
         "children": [
           {
-            "id": "661d9ade97f779f0",
+            "id": "5a2f6ea7043c118b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,13 +169,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "661d9ade97f779f0",
+  "active": "5a2f6ea7043c118b",
   "lastOpenFiles": [
     "content/weblog/پارادوکس رنج برای رفاه.md",
     "content/weblog/در باب داشتن تعادل.md",
+    "content/quotes.md",
     "content/weblog/چرا مردم ایران سخت‌کوش نیستند.md",
     "content/weblog/من و جامعه امنیت سایبری ایران.md",
-    "content/quotes.md",
     "content/weblog/مقدمه کل.md",
     "content/weblog/هکر کیست.md",
     "content/weblog/همه جوامع دموکراتیک هستند.md",
