@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "07e1ca3c8ad83240",
+        "id": "24411ce9935e4056",
         "type": "tabs",
         "children": [
           {
-            "id": "e2005eb270503c2d",
+            "id": "9a68307282e435b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,12 +169,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e2005eb270503c2d",
+  "active": "9a68307282e435b1",
   "lastOpenFiles": [
     "content/weblog/در باب داشتن تعادل.md",
+    "content/weblog/پارادوکس رنج برای رفاه.md",
     "content/weblog/من و جامعه امنیت سایبری ایران.md",
     "content/quotes.md",
-    "content/weblog/پارادوکس رنج برای رفاه.md",
     "content/weblog/بازی کلمات.md",
     "content/weblog/چرا مردم ایران سخت‌کوش نیستند.md",
     "content/weblog/مقدمه کل.md",
