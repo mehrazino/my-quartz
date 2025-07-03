@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "64635cca65c8a170",
+            "id": "ac5cd27fc7f9f9db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/weblog/چرا سرگردان شدیم.md",
+                "file": "content/weblog/فرمون رو لحظه‌ای رها نکن.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "چرا سرگردان شدیم"
+              "title": "فرمون رو لحظه‌ای رها نکن"
             }
           }
         ]
@@ -169,10 +169,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "64635cca65c8a170",
+  "active": "ac5cd27fc7f9f9db",
   "lastOpenFiles": [
-    "content/weblog/از خودمون شروع کنیم.md",
     "content/weblog/چرا سرگردان شدیم.md",
+    "content/weblog/از خودمون شروع کنیم.md",
     "content/weblog/فرمون رو لحظه‌ای رها نکن.md",
     "content/weblog/مقدمه کل.md",
     "content/weblog/فاز برندار.md",
