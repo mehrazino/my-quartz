@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "content/quotes.md",
+      "timestamp": 1751879768699
+    },
+    {
+      "filepath": "private/مشکلات فراکتالی.md",
+      "timestamp": 1751879753392
+    },
+    {
       "filepath": "content/weblog/چرا سرگردان شدیم.md",
       "timestamp": 1751877088909
     },
@@ -54,14 +62,6 @@
     {
       "filepath": "content/weblog/پارادوکس رنج برای رفاه.md",
       "timestamp": 1751874047474
-    },
-    {
-      "filepath": "content/weblog/در باب داشتن تعادل.md",
-      "timestamp": 1751874042939
-    },
-    {
-      "filepath": "content/quotes.md",
-      "timestamp": 1751873322346
     }
   ],
   "bookmarkedFileStore": [],
