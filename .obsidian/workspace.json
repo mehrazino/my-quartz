@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fd0e42fe1f3dc1d4",
+        "id": "2d7bba8d75892641",
         "type": "tabs",
         "children": [
           {
-            "id": "b294e686fb8a871d",
+            "id": "08326dca0581d331",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,10 +169,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b294e686fb8a871d",
+  "active": "08326dca0581d331",
   "lastOpenFiles": [
     "content/weblog/هکر کیست.md",
     "content/weblog/از خودمون شروع کنیم.md",
+    "content/weblog/فاز برندار.md",
     "content/weblog/در باب داشتن تعادل.md",
     "content/weblog/اثر منفی مرکب.md",
     "content/weblog/چرا سرگردان شدیم.md",
@@ -184,7 +185,6 @@
     "content/quotes.md",
     "private/TODO.md",
     "private/مشکلات فراکتالی.md",
-    "content/weblog/فاز برندار.md",
     "content/weblog/من و جامعه امنیت سایبری ایران.md",
     "content/weblog/مقدمه کل.md",
     "content/weblog/چرا مردم ایران سخت‌کوش نیستند.md",
