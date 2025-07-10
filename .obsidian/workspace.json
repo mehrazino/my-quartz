@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2d7bba8d75892641",
+        "id": "bcf7236e93361d67",
         "type": "tabs",
         "children": [
           {
-            "id": "70482ceecdec6893",
+            "id": "c2970af659fe0511",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/weblog/پارادوکس رنج برای رفاه.md",
+                "file": "content/weblog/همه جوامع دموکراتیک هستند.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "پارادوکس رنج برای رفاه"
+              "title": "همه جوامع دموکراتیک هستند"
             }
           }
         ]
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/وبلاگ/هکر کیست.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for هکر کیست"
+              "title": "Backlinks"
             }
           },
           {
@@ -169,20 +168,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70482ceecdec6893",
+  "active": "c2970af659fe0511",
   "lastOpenFiles": [
+    "content/weblog/هکر کیست.md",
+    "content/weblog/همه جوامع دموکراتیک هستند.md",
+    "content/attachments/my-society-cycle.mp4",
+    "content/weblog/پارادوکس رنج برای رفاه.md",
     "content/weblog/چرا سرگردان شدیم.md",
     "content/weblog/چرا مردم ایران سخت‌کوش نیستند.md",
     "content/weblog/فاز برندار.md",
-    "content/weblog/هکر کیست.md",
     "content/weblog/از خودمون شروع کنیم.md",
     "content/weblog/در باب داشتن تعادل.md",
     "content/weblog/اثر منفی مرکب.md",
     "content/weblog/فرمون رو لحظه‌ای رها نکن.md",
-    "content/weblog/پارادوکس رنج برای رفاه.md",
     "content/attachments/photo_2025-04-28_12-43-07.jpg",
     "content/attachments/Pasted image 20250707144046.png",
-    "content/weblog/همه جوامع دموکراتیک هستند.md",
     "content/quotes.md",
     "private/TODO.md",
     "private/مشکلات فراکتالی.md",
@@ -214,7 +214,6 @@
     "public/tags/community_notes.html",
     "public/tags/امنیت.html",
     "public/وبلاگ/اثر-منفی-مرکب.html",
-    "public/وبلاگ/همه-جوامع-دموکراتیک-هستند.html",
-    "public/وبلاگ/ریلکس-باش.html"
+    "public/وبلاگ/همه-جوامع-دموکراتیک-هستند.html"
   ]
 }
