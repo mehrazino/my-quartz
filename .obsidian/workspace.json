@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "da61ef2d8113ba1c",
+            "id": "1c79918f63e604ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,15 +168,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da61ef2d8113ba1c",
+  "active": "1c79918f63e604ea",
   "lastOpenFiles": [
+    "content/quotes.md",
+    "content/about.md",
     "content/weblog/هکر کیست.md",
     "content/weblog/پارادوکس رنج برای رفاه.md",
     "content/weblog/من و جامعه امنیت سایبری ایران.md",
     "content/weblog/همه جوامع دموکراتیک هستند.md",
     "content/weblog/چرا مردم ایران سخت‌کوش نیستند.md",
     "content/weblog/چرا سرگردان شدیم.md",
-    "content/about.md",
     "content/attachments/my-society-cycle.mp4",
     "content/weblog/فاز برندار.md",
     "content/weblog/از خودمون شروع کنیم.md",
@@ -185,7 +186,6 @@
     "content/weblog/فرمون رو لحظه‌ای رها نکن.md",
     "content/attachments/photo_2025-04-28_12-43-07.jpg",
     "content/attachments/Pasted image 20250707144046.png",
-    "content/quotes.md",
     "private/TODO.md",
     "private/مشکلات فراکتالی.md",
     "content/weblog/مقدمه کل.md",
