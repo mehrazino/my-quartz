@@ -25,39 +25,15 @@
   "recentFilesStore": [
     {
       "filepath": "content/about.md",
-      "timestamp": 1752226899220
+      "timestamp": 1752244279876
     },
     {
-      "filepath": "content/weblog/اثر منفی مرکب.md",
-      "timestamp": 1752222112409
+      "filepath": "private/TODO.md",
+      "timestamp": 1752244266239
     },
     {
       "filepath": "content/weblog/از خودمون شروع کنیم.md",
-      "timestamp": 1752222109400
-    },
-    {
-      "filepath": "content/weblog/همه جوامع دموکراتیک هستند.md",
-      "timestamp": 1752222104481
-    },
-    {
-      "filepath": "content/weblog/هکر کیست.md",
-      "timestamp": 1752222092360
-    },
-    {
-      "filepath": "content/weblog/چرا سرگردان شدیم.md",
-      "timestamp": 1752222089073
-    },
-    {
-      "filepath": "content/weblog/پارادوکس رنج برای رفاه.md",
-      "timestamp": 1752222065481
-    },
-    {
-      "filepath": "node_modules/zwitch/readme.md",
-      "timestamp": 1752222056457
-    },
-    {
-      "filepath": "content/quotes.md",
-      "timestamp": 1752222028924
+      "timestamp": 1752244251123
     }
   ],
   "bookmarkedFileStore": [],

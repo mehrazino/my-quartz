@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ab457b18b9c899b4",
+        "id": "a4806b042926f465",
         "type": "tabs",
         "children": [
           {
-            "id": "3984499e14b0fd57",
+            "id": "b1828c4d61dbbadc",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "content/about.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "about"
             }
           }
         ]
@@ -164,21 +168,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3984499e14b0fd57",
+  "active": "b1828c4d61dbbadc",
   "lastOpenFiles": [
-    "content/about.md",
-    "content/weblog/اثر منفی مرکب.md",
+    "private/TODO.md",
     "content/weblog/از خودمون شروع کنیم.md",
-    "content/weblog/همه جوامع دموکراتیک هستند.md",
-    "content/weblog/هکر کیست.md",
     "content/weblog/چرا سرگردان شدیم.md",
+    "content/weblog/همه جوامع دموکراتیک هستند.md",
+    "content/about.md",
+    "content/quotes.md",
+    "content/weblog/چرا مردم ایران سخت‌کوش نیستند.md",
+    "content/weblog/اثر منفی مرکب.md",
+    "content/weblog/هکر کیست.md",
     "content/weblog/پارادوکس رنج برای رفاه.md",
     "node_modules/zwitch/readme.md",
-    "content/quotes.md",
     "content/weblog/در باب داشتن تعادل.md",
-    "private/TODO.md",
     "private/مشکلات فراکتالی.md",
-    "content/weblog/چرا مردم ایران سخت‌کوش نیستند.md",
     "content/weblog/من و جامعه امنیت سایبری ایران.md",
     "content/attachments/my-society-cycle.mp4",
     "content/weblog/فاز برندار.md",
