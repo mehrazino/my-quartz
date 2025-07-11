@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "content/about.md",
+      "timestamp": 1752226899220
+    },
+    {
       "filepath": "content/weblog/اثر منفی مرکب.md",
       "timestamp": 1752222112409
     },
@@ -54,10 +58,6 @@
     {
       "filepath": "content/quotes.md",
       "timestamp": 1752222028924
-    },
-    {
-      "filepath": "content/about.md",
-      "timestamp": 1752221941595
     }
   ],
   "bookmarkedFileStore": [],
