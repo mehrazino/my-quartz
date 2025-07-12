@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9a277730b80c41a2",
+            "id": "0c6f78a8b95b03c3",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "content/weblog/همه جوامع دموکراتیک هستند.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "همه جوامع دموکراتیک هستند"
             }
           }
         ]
@@ -164,12 +168,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a277730b80c41a2",
+  "active": "0c6f78a8b95b03c3",
   "lastOpenFiles": [
+    "content/weblog/چرا مردم ایران سخت‌کوش نیستند.md",
+    "private/به هم نسلی های خودم.md",
+    "content/weblog/فرمون رو لحظه ای رها نکن.md",
     "content/weblog/هکر کیست.md",
     "content/quotes.md",
     "content/weblog/چرا سرگردان شدیم.md",
-    "content/weblog/چرا مردم ایران سخت‌کوش نیستند.md",
     "content/weblog/همه جوامع دموکراتیک هستند.md",
     "private/TODO.md",
     "content/weblog/مقدمه کل.md",
@@ -180,7 +186,6 @@
     "content/weblog/در باب داشتن تعادل.md",
     "content/weblog/من و جامعه امنیت سایبری ایران.md",
     "content/about.md",
-    "content/weblog/فرمون رو لحظه‌ای رها نکن.md",
     "node_modules/zwitch/readme.md",
     "private/مشکلات فراکتالی.md",
     "content/attachments/my-society-cycle.mp4",
@@ -203,7 +208,6 @@
     "public/وبلاگ/مشکلات-فراکتالی.html",
     "content/attachments/Sierpinski_pyramid_b.gif",
     "content/وبلاگ/2025-04-27.md",
-    "content/وبلاگ/2025-04-26.md",
     "public/وبلاگ/من-و-جامعه-امنیت-سایبری-ایران.html",
     "content/attachments/Pasted image 20250421103323.png.~tmp",
     "public/وبلاگ/فاز-برندار!.html",
