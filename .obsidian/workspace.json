@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a4806b042926f465",
+        "id": "27e80046cd677c67",
         "type": "tabs",
         "children": [
           {
-            "id": "b1828c4d61dbbadc",
+            "id": "9a277730b80c41a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/about.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "about"
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
             }
           }
         ]
@@ -168,28 +164,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b1828c4d61dbbadc",
+  "active": "9a277730b80c41a2",
   "lastOpenFiles": [
-    "private/TODO.md",
-    "content/weblog/از خودمون شروع کنیم.md",
-    "content/weblog/چرا سرگردان شدیم.md",
-    "content/weblog/همه جوامع دموکراتیک هستند.md",
-    "content/about.md",
-    "content/quotes.md",
-    "content/weblog/چرا مردم ایران سخت‌کوش نیستند.md",
-    "content/weblog/اثر منفی مرکب.md",
     "content/weblog/هکر کیست.md",
-    "content/weblog/پارادوکس رنج برای رفاه.md",
-    "node_modules/zwitch/readme.md",
-    "content/weblog/در باب داشتن تعادل.md",
-    "private/مشکلات فراکتالی.md",
-    "content/weblog/من و جامعه امنیت سایبری ایران.md",
-    "content/attachments/my-society-cycle.mp4",
+    "content/quotes.md",
+    "content/weblog/چرا سرگردان شدیم.md",
+    "content/weblog/چرا مردم ایران سخت‌کوش نیستند.md",
+    "content/weblog/همه جوامع دموکراتیک هستند.md",
+    "private/TODO.md",
+    "content/weblog/مقدمه کل.md",
     "content/weblog/فاز برندار.md",
+    "content/weblog/اثر منفی مرکب.md",
+    "content/weblog/از خودمون شروع کنیم.md",
+    "content/weblog/پارادوکس رنج برای رفاه.md",
+    "content/weblog/در باب داشتن تعادل.md",
+    "content/weblog/من و جامعه امنیت سایبری ایران.md",
+    "content/about.md",
     "content/weblog/فرمون رو لحظه‌ای رها نکن.md",
+    "node_modules/zwitch/readme.md",
+    "private/مشکلات فراکتالی.md",
+    "content/attachments/my-society-cycle.mp4",
     "content/attachments/photo_2025-04-28_12-43-07.jpg",
     "content/attachments/Pasted image 20250707144046.png",
-    "content/weblog/مقدمه کل.md",
     "content/weblog/بازی کلمات.md",
     "content/index.md",
     "[گنجور.md",

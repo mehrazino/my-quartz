@@ -131,7 +131,7 @@ tags:
 
 >بزرگترین تهدید، خطر از دست دادن خود است؛ که به قدری بی سر و صدا رخ می‌دهد که انگار هیچ اتفاقی نیفتاده.
 
->اگر به سیاست اهمیت ندهید، سیاست نیز به شما اهمیتی نخواهد داد.
+>اگر به سیاست‌های کشور اهمیت ندهید، سیاست‌های کشور نیز به شما اهمیتی نخواهد داد.
 
 >گاهی ادامه دادن، فقط ادامه دادن، دستاوردی مافوق قدرت بشر است.
 
@@ -248,6 +248,10 @@ tags:
 >The best revenge is to be unlike him who performed the injury.
 
 >One of the penalties for refusing to participate in politics is that you end up being governed by your inferiors.
+>— Plato
+
+>"The punishment which the wise suffer who refuse to take part in the government, is, to live under the government of worse men."
+>— Plato
 
 >It is better to be violent, if there is violence in our hearts, than to put on the cloak of nonviolence to cover impotence.
 
