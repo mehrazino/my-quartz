@@ -184,7 +184,7 @@ tags:
 >تنها فایدۀ تاریخ این است که از مطالعه‌اش انسان از ترقی و آینده بشر هم ناامید می‌شود. 
 
 >من در ابتدا فکر می‌کردم که مملکت، وزیر دانا می خواهد، مدتی بعد به این نتیجه رسیدم که مملکت، شاه دانا می خواهد؛ اما حالا می‌فهمم که مملکت، ملت دانا می‌خواهد.
->—امیر کبیر
+>— امیر کبیر
 
 >بدبخت ملتی که مدام قهرمان نیاز دارد. گویی که هنوز، هربار باید کسانی در پیشگاه بتِ خودساختۀشان قربانی شوند.
 
@@ -222,13 +222,22 @@ tags:
 
 >کسی که خواب باشد، اگر نه با ضربۀ اول، با ضربۀ دوم و سوم بیدار می‌شود، از خواب می‌پرد. این مردم ضربه‌های پتک را یکی پس از دیگری تحمل می‌کنند و عین خیالشان نیست. نه، این مردم خواب نیستند. مرده‌اند. و حرکات گه‌گاهی که از آنان می‌بینیم، جنبش زندگی نیست. تشنجات احتضار است.
 
->عجیب‌ترین رفتار INFJها این است که خود را به آتش می‌کشند تا دیگران را گرم کنند. آن‌ها ستاره‌هایی هستند. که «رمبش» می‌کنند.
+>عجیب‌ترین رفتار غالب INFJها این است که می‌خواهند خود را به آتش بکشند تا دیگران را گرم کنند. آن‌ها ستاره‌هایی هستند، از دور درخشان و زیبا، از نزدیک سوزان، که در نهایت «رمبش» می‌کنند.
+
+>پرسید: «چرا برخی ملت‌های اسیر، با اینکه چند نسل است که از اسارتشان می‌نالند، همچنان زندانی هستند؟»
+>گفتم: «چون در زندان، لاأقل **تکلیف معلوم است**.»
 
 ---
 
 >Common sense is not so common.
 
 >The most dangerous man to any government is the man who is able to think things out for himself, without regard to the prevailing superstitions and taboos. Almost inevitably he comes to the conclusion that the government he lives under is dishonest, insane and intolerable, and so, if he is **romantic**, he tries to change it. And even if he is not romantic personally he is very apt to spread discontent among those who are.
+
+> “Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.”
+>― Sigmund Freud
+
+>“Liberty means responsibility. That is why most men dread it.”  
+>― George Bernard Shaw
 
 >Power tends to corrupt; absolute power corrupts absolutely.
 >—Lord Acton
