@@ -24,20 +24,28 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "content/quotes.md",
+      "timestamp": 1754126748137
+    },
+    {
       "filepath": "content/about.md",
-      "timestamp": 1754053781053
+      "timestamp": 1754126744683
     },
     {
-      "filepath": "content/weblog/همه جوامع دموکراتیک هستند.md",
-      "timestamp": 1754046127672
+      "filepath": "content/index.md",
+      "timestamp": 1754126743722
     },
     {
-      "filepath": "content/weblog/از خودمون شروع کنیم.md",
-      "timestamp": 1754046126041
+      "filepath": "content/weblog/فاز برندار.md",
+      "timestamp": 1754126741739
     },
     {
-      "filepath": "content/weblog/من و جامعه امنیت سایبری ایران.md",
-      "timestamp": 1754045818054
+      "filepath": "content/weblog/مقدمه کل.md",
+      "timestamp": 1754126739619
+    },
+    {
+      "filepath": "private/در باب کاریزمای ذاتی.md",
+      "timestamp": 1754124047287
     }
   ],
   "bookmarkedFileStore": [],
