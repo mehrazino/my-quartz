@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f2e0c27592631d7f",
+        "id": "56c49c442710d930",
         "type": "tabs",
         "children": [
           {
-            "id": "93e410d6ce0cdbca",
+            "id": "bf818710400f32f7",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "edmund",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,27 +164,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93e410d6ce0cdbca",
+  "active": "bf818710400f32f7",
   "lastOpenFiles": [
+    "private/TODO.md",
+    "content/weblog/چرا سرگردان شدیم.md",
+    "content/weblog/پارادوکس رنج برای رفاه.md",
+    "content/weblog/هکر کیست.md",
+    "content/weblog/من و جامعه امنیت سایبری ایران.md",
+    "content/weblog/همه جوامع دموکراتیک هستند.md",
+    "content/weblog/در باب داشتن تعادل.md",
+    "content/weblog/اثر منفی مرکب.md",
+    "content/weblog/از خودمون شروع کنیم.md",
+    "content/weblog/فاز برندار.md",
+    "content/weblog/فرمون رو لحظه ای رها نکن.md",
+    "content/quotes.md",
     "private/در باب کاریزمای ذاتی.md",
     "private/اختصاصی با دهه‌هشتادی‌ها.md",
-    "private/TODO.md",
     "private",
-    "content/quotes.md",
     "content/about.md",
     "content/index.md",
-    "content/weblog/فاز برندار.md",
     "content/weblog/مقدمه کل.md",
-    "content/weblog/من و جامعه امنیت سایبری ایران.md",
-    "content/weblog/فرمون رو لحظه ای رها نکن.md",
-    "content/weblog/از خودمون شروع کنیم.md",
-    "content/weblog/هکر کیست.md",
-    "content/weblog/اثر منفی مرکب.md",
-    "content/weblog/همه جوامع دموکراتیک هستند.md",
-    "content/weblog/پارادوکس رنج برای رفاه.md",
     "content/weblog/چرا مردم ایران سخت‌کوش نیستند.md",
-    "content/weblog/چرا سرگردان شدیم.md",
-    "content/weblog/در باب داشتن تعادل.md",
     "private/Untitled.md",
     "public/icon-header-1.png",
     "public/test-direction-og-image.webp",
