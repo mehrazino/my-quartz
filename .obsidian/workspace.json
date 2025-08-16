@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "56c49c442710d930",
+        "id": "151a1a33617ffa3e",
         "type": "tabs",
         "children": [
           {
-            "id": "bf818710400f32f7",
+            "id": "ed14da90d23a72c6",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "content/weblog/درمورد شغل سیاستمداری.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "درمورد شغل سیاستمداری"
             }
           }
         ]
@@ -164,14 +168,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf818710400f32f7",
+  "active": "ed14da90d23a72c6",
   "lastOpenFiles": [
+    "content/weblog/همه جوامع دموکراتیک هستند.md",
+    "content/weblog/درمورد شغل سیاستمداری.md",
     "private/TODO.md",
     "content/weblog/چرا سرگردان شدیم.md",
     "content/weblog/پارادوکس رنج برای رفاه.md",
     "content/weblog/هکر کیست.md",
     "content/weblog/من و جامعه امنیت سایبری ایران.md",
-    "content/weblog/همه جوامع دموکراتیک هستند.md",
     "content/weblog/در باب داشتن تعادل.md",
     "content/weblog/اثر منفی مرکب.md",
     "content/weblog/از خودمون شروع کنیم.md",
