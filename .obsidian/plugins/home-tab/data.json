@@ -24,7 +24,15 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "content/weblog/Untitled.md",
+      "filepath": "content/about.md",
+      "timestamp": 1755324409616
+    },
+    {
+      "filepath": "content/quotes.md",
+      "timestamp": 1755323705915
+    },
+    {
+      "filepath": "content/weblog/درمورد شغل سیاستمداری.md",
       "timestamp": 1755321932661
     },
     {

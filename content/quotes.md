@@ -233,24 +233,24 @@ tags:
 
 >Common sense is not so common.
 
->The most dangerous man to any government is the man who is able to think things out for himself, without regard to the prevailing superstitions and taboos. Almost inevitably he comes to the conclusion that the government he lives under is dishonest, insane and intolerable, and so, if he is **romantic**, he tries to change it. And even if he is not romantic personally he is very apt to spread discontent among those who are.
+>خطرناک‌ترین فرد برای هر حکومتی، کسی است که می‌تواند به‌طور مستقل، برای خودش فکر کند و به خرافات و تابوهای رایج توجهی نداشته باشد. او تقریباً به‌طور حتم به این نتیجه می‌رسد که دولتی که تحت آن زندگی می‌کند، نابه‌کار، دیوانه‌وار و غیرقابل تحمل است. بنابراین، اگر او **رمانتیک** باشد، سعی می‌کند آن را تغییر دهد. و حتی اگر خودش رمانتیک نباشد، نارضایتی را در میان کسانی که رمانتیک هستند، گسترش می‌دهد.
 
-> “Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.”
->― Sigmund Freud
+>بیشتر مردم واقعاً خواهان آزادی نیستند، زیرا آزادی شامل مسئولیت‌پذیری است و بیشتر مردم از مسئولیت‌پذیری می‌ترسند.
+>— زیگموند فروید
 
->“Liberty means responsibility. That is why most men dread it.”  
->― George Bernard Shaw
+>آزادی یعنی مسئولیت‌پذیری. به همین دلیل است که بیشتر مردم از آن می‌ترسند.
+>― جرج برنارد شاو
 
->Power tends to corrupt; absolute power corrupts absolutely.
->—Lord Acton
+>قدرت تمایل به فساد دارد؛ و قدرت مطلق، به‌طور مطلق فساد می‌آورد.
+>— لورد اکتون
 
->If you can't fly, run, if you can't run, walk, if you can't walk, crawl, but by all means **keep moving**.
+>اگر نمی‌توانی پرواز کنی، بدو. اگر نمی‌توانی بدوی، راه برو. اگر نمی‌توانی راه بروی، بخز! اما همیشه **به حرکت ادامه بده**.
 
->It's not what happens to you, but how you react to it that matters.
+>اینکه چه چیزی برای تو اتفاق می‌افتد مهم نیست، بلکه نحوۀ واکنش تو به آن است که اهمیت دارد.
 
->It is impossible for a man to learn what he thinks he already knows.
+>برای یک انسان غیرممکن است که آنچه را که فکر می‌کند از قبل می‌داند یاد بگیرد.
 
->If you find yourself wanting something month after month, year after year, yet nothing happens and you never come any closer to it, then maybe what you actually want is a fantasy, an idealization, a false promise. Maybe what you want isn't what you want, you just enjoy wanting.
+>اگر ماه‌ها و یا سال‌هاست که خود را در حال خواستن چیزی می‌بینی، اما هیچ اتفاقی نمی‌افتد و هرگز به آن نزدیک‌تر نمی‌شوی، شاید آنچه که واقعاً می‌خواهی، یک خیال، یک ایده‌آل یا یک وعدۀ دروغین است. شاید آنچه می‌خواهی واقعاً همان چیزی نیست که می‌خواهی، بلکه فقط از «خواستن» لذت می‌بری.
 
 >سانسور، نشانۀ ترس است.
 
@@ -264,9 +264,9 @@ tags:
 > — [مارکوس آئورلیوس](https://www.goodreads.com/quotes/186784)
 > — [جرج هربرت](https://www.goodreads.com/quotes/11089)
 > — [فرانک سیناترا](https://www.goodreads.com/quotes/46105)
-> — اد شیرن
+> — [اد شیرن](https://www.goodreads.com/quotes/723301)
 
->عاقبت دانایانی که از مشارکت در سیاست کشور امتناع کردند، این است که تحت حکومت کسانی نادان‌تر از خودشان زندگی کنند.
+>عاقبت دانایانی که از مشارکت در سیاست کشور امتناع کردند این است که تحت حکومت کسانی نادان‌تر از خودشان زندگی کنند.
 >— افلاطون
 
 >بهتر است که اگر در دل‌های ما خشمی وجود دارد، آن را ابراز کنیم، تا اینکه در پوشش عدم خشونت، ناتوانی خود را پنهان کنیم.

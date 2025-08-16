@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/weblog/درمورد شغل سیاستمداری.md",
+                "file": "content/about.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "درمورد شغل سیاستمداری"
+              "title": "about"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "ed14da90d23a72c6",
   "lastOpenFiles": [
-    "content/weblog/همه جوامع دموکراتیک هستند.md",
+    "content/quotes.md",
     "content/weblog/درمورد شغل سیاستمداری.md",
+    "content/weblog/همه جوامع دموکراتیک هستند.md",
     "private/TODO.md",
     "content/weblog/چرا سرگردان شدیم.md",
     "content/weblog/پارادوکس رنج برای رفاه.md",
@@ -182,7 +183,6 @@
     "content/weblog/از خودمون شروع کنیم.md",
     "content/weblog/فاز برندار.md",
     "content/weblog/فرمون رو لحظه ای رها نکن.md",
-    "content/quotes.md",
     "private/در باب کاریزمای ذاتی.md",
     "private/اختصاصی با دهه‌هشتادی‌ها.md",
     "private",
