@@ -35,19 +35,6 @@ export const sharedPageComponents: SharedLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.SocialButtons(),
-    Component.Comments({
-      provider: 'giscus',
-      options: {
-        // from data-repo
-        repo: 'mehrazino/my-quartz',
-        // from data-repo-id
-        repoId: 'R_kgDOOQKRpg',
-        // from data-category
-        category: 'Announcements',
-        // from data-category-id
-        categoryId: 'DIC_kwDOOQKRps4CpQES',
-      }
-    }),
   ],
   footer: Component.Footer({
     links: {

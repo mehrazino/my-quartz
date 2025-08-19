@@ -5,6 +5,7 @@
     "tags": "tags",
     "enableToc": "checkbox",
     "draft": "checkbox",
-    "date": "date"
+    "date": "date",
+    "comments": "checkbox"
   }
 }
