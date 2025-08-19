@@ -38,14 +38,16 @@ export const sharedPageComponents: SharedLayout = {
     Component.Comments({
       provider: 'giscus',
       options: {
+        // from data-repo
         repo: 'mehrazino/my-quartz',
+        // from data-repo-id
         repoId: 'R_kgDOOQKRpg',
+        // from data-category
         category: 'Announcements',
+        // from data-category-id
         categoryId: 'DIC_kwDOOQKRps4CpQES',
-        lang: 'fa'
-        inputPosition?: "top"
-        }
-      }),
+      }
+    }),
   ],
   footer: Component.Footer({
     links: {
