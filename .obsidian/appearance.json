@@ -1,13 +1,4 @@
 {
-  "textFontFamily": "Vazirmatn",
-  "monospaceFontFamily": "Intel One Mono",
-  "baseFontSizeAction": true,
-  "enabledCssSnippets": [
-    "justify"
-  ],
-  "cssTheme": "",
-  "accentColor": "#329461",
-  "baseFontSize": 18,
-  "showRibbon": true,
-  "showViewHeader": true
+  "textFontFamily": "vazirmatn",
+  "baseFontSize": 18
 }
