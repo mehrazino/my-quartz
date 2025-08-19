@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0d1ae00ba4e2a446",
+        "id": "b4fa1753782291c8",
         "type": "tabs",
         "children": [
           {
-            "id": "e6829f1eddfcde81",
+            "id": "75b0ad5a449b50a6",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "content/weblog/در باب سوگیری تأییدی.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "در باب سوگیری تأییدی"
             }
           }
         ]
@@ -165,19 +169,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e6829f1eddfcde81",
+  "active": "75b0ad5a449b50a6",
   "lastOpenFiles": [
+    "content/about.md",
+    "content/quotes.md",
     "content/weblog/مقدمه کل.md",
+    "content/weblog/در باب سوگیری تأییدی.md",
     "content/weblog/فروم.md",
     "private/در باب کاریزمای ذاتی.md",
     "private/اختصاصی با دهه‌هشتادی‌ها.md",
     "templates/Untitled.md",
     "2025-08-19.md",
-    "content/weblog/در باب سوگیری تأییدی.md",
-    "content/quotes.md",
     "private/TODO.md",
     "content/Mike-Franchina-Crusade.jpg",
-    "content/about.md",
     "content/index.md",
     "content/weblog/من و جامعه امنیت سایبری ایران.md",
     "content/weblog/درمورد شغل سیاستمداری.md",
