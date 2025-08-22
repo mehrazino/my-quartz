@@ -11,10 +11,14 @@
             "id": "7e3716c9a809b016",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "content/quotes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "quotes"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "تکلیف",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -167,6 +172,8 @@
   },
   "active": "7e3716c9a809b016",
   "lastOpenFiles": [
+    "content/weblog/چرا مردم ایران سخت‌کوش نیستند.md",
+    "content/weblog/چرا سرگردان شدیم.md",
     "private/اجحاف جمعی.md",
     "private/اختصاصی با دهه‌هشتادی‌ها.md",
     "private/در باب سوگیری تأییدی.md",
@@ -184,13 +191,11 @@
     "content/weblog/من و جامعه امنیت سایبری ایران.md",
     "content/weblog/درمورد شغل سیاستمداری.md",
     "content/weblog/هکر کیست.md",
-    "content/weblog/چرا مردم ایران سخت‌کوش نیستند.md",
     "content/books",
     "content/weblog/پارادوکس رنج برای رفاه.md",
     "content/weblog/از خودمون شروع کنیم.md",
     "content/weblog/اثر منفی مرکب.md",
     "content/weblog/در باب داشتن تعادل.md",
-    "content/weblog/چرا سرگردان شدیم.md",
     "content/weblog/همه جوامع دموکراتیک هستند.md",
     "content/weblog/فاز برندار.md",
     "content/weblog/فرمون رو لحظه ای رها نکن.md",
