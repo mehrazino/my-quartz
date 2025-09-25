@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "910e1946f4a3cadf",
+        "id": "be2c3863dbd01835",
         "type": "tabs",
         "children": [
           {
-            "id": "0a059cccf6c1933c",
+            "id": "9a9a868c62256348",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/weblog/پارادوکس رنج برای رفاه.md",
+                "file": "content/weblog/چرا مردم ایران سخت‌کوش نیستند.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "پارادوکس رنج برای رفاه"
+              "title": "چرا مردم ایران سخت‌کوش نیستند"
+            }
+          },
+          {
+            "id": "568d52228524a027",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/weblog/و بله.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "و بله"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,17 +184,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a059cccf6c1933c",
+  "active": "568d52228524a027",
   "lastOpenFiles": [
-    "private/در باب سوگیری تأییدی.md",
+    "content/weblog/چرا مردم ایران سخت‌کوش نیستند.md",
+    "content/weblog/و بله.md",
+    "content/weblog/هکر کیست.md",
+    "content/weblog/فرمون رو لحظه ای رها نکن.md",
+    "content/weblog/من و جامعه امنیت سایبری ایران.md",
+    "content/weblog/فاز برندار.md",
+    "content/weblog/در باب داشتن تعادل.md",
+    "content/weblog/اثر منفی مرکب.md",
+    "content/weblog/از خودمون شروع کنیم.md",
+    "content/weblog/همه جوامع دموکراتیک هستند.md",
+    "content/weblog/چرا سرگردان شدیم.md",
+    "content/weblog/درمورد شغل سیاستمداری.md",
+    "content/weblog/مقدمه کل.md",
     "content/weblog/پارادوکس رنج برای رفاه.md",
+    "private/اختصاصی با دهه‌هشتادی‌ها.md",
+    "private/در باب سوگیری تأییدی.md",
+    "private/TODO.md",
     "private/اجحاف جمعی.md",
     "content/quotes.md",
-    "content/weblog/چرا مردم ایران سخت‌کوش نیستند.md",
-    "content/weblog/چرا سرگردان شدیم.md",
-    "private/اختصاصی با دهه‌هشتادی‌ها.md",
-    "content/weblog/مقدمه کل.md",
-    "private/TODO.md",
     "content/attachments/Khodtayidi-Insta.mp4",
     "content/about.md",
     "content/weblog/فروم.md",
@@ -188,16 +213,7 @@
     "2025-08-19.md",
     "content/Mike-Franchina-Crusade.jpg",
     "content/index.md",
-    "content/weblog/من و جامعه امنیت سایبری ایران.md",
-    "content/weblog/درمورد شغل سیاستمداری.md",
-    "content/weblog/هکر کیست.md",
     "content/books",
-    "content/weblog/از خودمون شروع کنیم.md",
-    "content/weblog/اثر منفی مرکب.md",
-    "content/weblog/در باب داشتن تعادل.md",
-    "content/weblog/همه جوامع دموکراتیک هستند.md",
-    "content/weblog/فاز برندار.md",
-    "content/weblog/فرمون رو لحظه ای رها نکن.md",
     "private",
     "private/Untitled.md",
     "public/icon-header-1.png",
@@ -209,7 +225,6 @@
     "public/درباره-og-image.webp",
     "public/Untitled-og-image.webp",
     "public/Mike-Franchina-Crusade.jpg",
-    "2025-07-22.md",
     "content/attachments/my-society-cycle.mp4",
     "public/وبلاگ/مشکلات-فراکتالی.html",
     "public/وبلاگ/من-و-جامعه-امنیت-سایبری-ایران.html",
