@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9a9a868c62256348",
+            "id": "c0d20d2956a9afc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/weblog/چرا مردم ایران سخت‌کوش نیستند.md",
+                "file": "content/weblog/فرار.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "چرا مردم ایران سخت‌کوش نیستند"
-            }
-          },
-          {
-            "id": "568d52228524a027",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/weblog/و بله.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "و بله"
+              "title": "فرار"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,10 +169,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "568d52228524a027",
+  "active": "c0d20d2956a9afc4",
   "lastOpenFiles": [
+    "content/weblog/فرار.md",
     "content/weblog/چرا مردم ایران سخت‌کوش نیستند.md",
-    "content/weblog/و بله.md",
     "content/weblog/هکر کیست.md",
     "content/weblog/فرمون رو لحظه ای رها نکن.md",
     "content/weblog/من و جامعه امنیت سایبری ایران.md",
