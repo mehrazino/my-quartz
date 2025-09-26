@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "98c2577f14449aeb",
+            "id": "69f2d73f14325ff6",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "content/weblog/first_escape.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "first_escape"
             }
           }
         ]
@@ -165,10 +169,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98c2577f14449aeb",
+  "active": "cf3245dfc06808a9",
   "lastOpenFiles": [
+    "content/attachments/LostFile_JPG_2163255.jpg~RF7d6b6c.TMP",
+    "content/attachments/~ostFile_JPG_2163255.tmp",
+    "content/attachments/~ostFile_JPG_437239.tmp",
+    "content/attachments/IMG_20230419_183503.jpg",
+    "content/weblog/در باب داشتن تعادل.md",
+    "content/weblog/first_escape.md",
+    "content/weblog/من و جامعه امنیت سایبری ایران.md",
+    "private/در باب کاریزمای ذاتی.md",
+    "content/weblog/چرا سرگردان شدیم.md",
+    "private/TODO.md",
     "content/about.md",
-    "content/weblog/escape.md",
     "content/weblog/پارادوکس رنج برای رفاه.md",
     "content/weblog/هکر کیست.md",
     "content/attachments/LostFile_JPG_2163255.jpg",
@@ -177,22 +190,17 @@
     "content/attachments/LostFile_JPG_437239.jpg",
     "content/index.md",
     "content/weblog/فرمون رو لحظه ای رها نکن.md",
-    "content/weblog/من و جامعه امنیت سایبری ایران.md",
     "content/weblog/فاز برندار.md",
-    "content/weblog/در باب داشتن تعادل.md",
     "content/weblog/اثر منفی مرکب.md",
     "content/weblog/همه جوامع دموکراتیک هستند.md",
-    "content/weblog/چرا سرگردان شدیم.md",
     "content/weblog/درمورد شغل سیاستمداری.md",
     "content/weblog/مقدمه کل.md",
     "private/اختصاصی با دهه‌هشتادی‌ها.md",
     "private/در باب سوگیری تأییدی.md",
-    "private/TODO.md",
     "private/اجحاف جمعی.md",
     "content/quotes.md",
     "content/attachments/Khodtayidi-Insta.mp4",
     "content/weblog/فروم.md",
-    "private/در باب کاریزمای ذاتی.md",
     "templates/Untitled.md",
     "2025-08-19.md",
     "content/Mike-Franchina-Crusade.jpg",
@@ -204,13 +212,10 @@
     "public/test-cards-og-image.webp",
     "public/گفتارها-og-image.webp",
     "public/index-og-image.webp",
-    "public/درباره-og-image.webp",
     "content/attachments/my-society-cycle.mp4",
     "public/وبلاگ/مشکلات-فراکتالی.html",
     "public/وبلاگ/من-و-جامعه-امنیت-سایبری-ایران.html",
     "content/attachments/Pasted image 20250421103323.png.~tmp",
-    "public/وبلاگ/فاز-برندار!.html",
-    "public/وبلاگ/من-و-community.html",
-    "public/tags/community_notes.html"
+    "public/وبلاگ/فاز-برندار!.html"
   ]
 }
