@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "217a6099d9fec640",
+        "id": "cc30d43ca60acaf5",
         "type": "tabs",
         "children": [
           {
-            "id": "4c0c0c6a40dfd4a7",
+            "id": "b72711636afdc317",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,7 +169,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c0c0c6a40dfd4a7",
+  "active": "b72711636afdc317",
   "lastOpenFiles": [
     "content/weblog/first_escape.md",
     "content/weblog/پارادوکس رنج برای رفاه.md",
