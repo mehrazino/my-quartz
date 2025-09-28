@@ -24,8 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "content/about.md",
+      "timestamp": 1759046553397
+    },
+    {
       "filepath": "content/weblog/first_escape.md",
-      "timestamp": 1759046137481
+      "timestamp": 1759046202079
     }
   ],
   "bookmarkedFileStore": [],
