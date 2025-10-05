@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "content/weblog/first_escape.md",
+      "timestamp": 1759664861824
+    },
+    {
       "filepath": "content/weblog/هکر کیست.md",
       "timestamp": 1759664858082
     },
@@ -58,10 +62,6 @@
     {
       "filepath": "content/weblog/فرمون رو لحظه ای رها نکن.md",
       "timestamp": 1759664843191
-    },
-    {
-      "filepath": "content/weblog/در باب داشتن تعادل.md",
-      "timestamp": 1759664841259
     }
   ],
   "bookmarkedFileStore": [],
