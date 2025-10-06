@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9efe7802847705da",
+            "id": "30b424dfd295828f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,8 +169,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9efe7802847705da",
+  "active": "30b424dfd295828f",
   "lastOpenFiles": [
+    "content/weblog/first_escape.md",
     "content/weblog/هکر کیست.md",
     "content/weblog/فاز برندار.md",
     "content/weblog/مقدمه کل.md",
@@ -184,7 +185,6 @@
     "content/weblog/درمورد شغل سیاستمداری.md",
     "content/weblog/چرا سرگردان شدیم.md",
     "content/weblog/من و جامعه امنیت سایبری ایران.md",
-    "content/weblog/first_escape.md",
     "content/about.md",
     "content/quotes.md",
     "content/weblog/اختصاصی با دهه‌هشتادی‌ها.md",
