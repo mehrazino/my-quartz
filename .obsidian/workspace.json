@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9479f7d3267dd414",
+        "id": "36a2c0fe066e90eb",
         "type": "tabs",
         "children": [
           {
-            "id": "58360519c4b8ab92",
+            "id": "a3eb9f1ad23d4f0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/quotes.md",
+                "file": "content/weblog/هکر کیست.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "quotes"
+              "title": "هکر کیست"
             }
           }
         ]
@@ -169,25 +169,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "58360519c4b8ab92",
+  "active": "a3eb9f1ad23d4f0a",
   "lastOpenFiles": [
+    "content/weblog/first_escape.md",
+    "content/weblog/در مورد شغل سیاستمداری.md",
     "content/weblog/چرا سرگردان شدیم.md",
+    "content/weblog/از خودمون شروع کنیم.md",
+    "content/index.md",
+    "content/quotes.md",
+    "content/weblog/مقدمه کل.md",
     "content/weblog/اثر منفی مرکب.md",
     "content/weblog/در باب داشتن تعادل.md",
     "content/weblog/پارادوکس رنج برای رفاه.md",
     "content/weblog/هکر کیست.md",
     "content/weblog/فاز برندار.md",
-    "content/weblog/از خودمون شروع کنیم.md",
     "content/weblog/چرا مردم ایران سخت‌کوش نیستند.md",
     "content/weblog/فرمون رو لحظه ای رها نکن.md",
-    "content/weblog/مقدمه کل.md",
-    "content/weblog/first_escape.md",
-    "content/weblog/در مورد شغل سیاستمداری.md",
     "content/weblog/همه جوامع دموکراتیک هستند.md",
     "content/weblog/من و جامعه امنیت سایبری ایران.md",
     "private/TODO.md",
     "private/در باب سوگیری تأییدی.md",
-    "content/quotes.md",
     "content/about.md",
     "private/اجحاف جمعی.md",
     "content/weblog/اختصاصی با دهه‌هشتادی‌ها.md",
@@ -198,7 +199,6 @@
     "private/در باب کاریزمای ذاتی.md",
     "content/attachments/LostFile_JPG_2163255.jpg",
     "content/attachments/LostFile_JPG_437239.jpg",
-    "content/index.md",
     "content/attachments/Khodtayidi-Insta.mp4",
     "content/weblog/فروم.md",
     "templates/Untitled.md",
