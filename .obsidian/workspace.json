@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "56afd072f986a58f",
+            "id": "344e90098dd9b5f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,9 +169,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56afd072f986a58f",
+  "active": "344e90098dd9b5f2",
   "lastOpenFiles": [
     "content/weblog/از خودمون شروع کنیم.md",
+    "content/weblog/اثر منفی مرکب.md",
     "content/weblog/هکر کیست.md",
     "content/weblog/پارادوکس رنج برای رفاه.md",
     "content/weblog/در باب داشتن تعادل.md",
@@ -183,7 +184,6 @@
     "content/index.md",
     "content/quotes.md",
     "content/weblog/مقدمه کل.md",
-    "content/weblog/اثر منفی مرکب.md",
     "content/weblog/چرا مردم ایران سخت‌کوش نیستند.md",
     "content/weblog/فرمون رو لحظه ای رها نکن.md",
     "content/weblog/همه جوامع دموکراتیک هستند.md",
