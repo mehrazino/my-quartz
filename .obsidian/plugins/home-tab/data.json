@@ -22,7 +22,16 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [],
+  "recentFilesStore": [
+    {
+      "filepath": "content/weblog/first_escape.md",
+      "timestamp": 1763317198604
+    },
+    {
+      "filepath": "private/armaneroshd.md",
+      "timestamp": 1763317196959
+    }
+  ],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,

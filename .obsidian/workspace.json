@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9ba5c6228a340c05",
+            "id": "2a83e98dcac54a14",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "content/weblog/first_escape.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "first_escape"
             }
           }
         ]
@@ -176,10 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ba5c6228a340c05",
+  "active": "2a83e98dcac54a14",
   "lastOpenFiles": [
-    "public/static/icon.png.~tmp",
     "private/armaneroshd.md",
+    "public/static/icon.png.~tmp",
     "private/TODO.md",
     "content/quotes.md",
     "private/در باب کاریزمای ذاتی.md",
@@ -197,7 +201,6 @@
     "node_modules/mathjax-full/components/src/input/tex/extensions/verb/verb.js",
     "node_modules/mathjax-full/components/src/input/tex/extensions/verb/build.json",
     "node_modules/mathjax-full/components/src/input/tex/extensions/verb/lib",
-    "node_modules/mathjax-full/components/src/input/tex/extensions/verb",
     "node_modules/entities/readme.md",
     "node_modules/micromark-factory-label/readme.md",
     "node_modules/micromark-factory-destination/readme.md",
