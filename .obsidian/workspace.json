@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/armaneroshd.md",
+                "file": "private/armaneroshd.md",
                 "mode": "preview",
                 "source": false
               },
@@ -180,9 +180,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7cada43413078704",
+  "active": "cf3245dfc06808a9",
   "lastOpenFiles": [
-    "content/armaneroshd.md",
+    "private/armaneroshd.md",
     "private/TODO.md",
     "content/quotes.md",
     "private/در باب کاریزمای ذاتی.md",
