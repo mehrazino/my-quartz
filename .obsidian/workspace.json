@@ -182,6 +182,7 @@
   },
   "active": "2a83e98dcac54a14",
   "lastOpenFiles": [
+    "quartz/static/icon.png",
     "content/weblog/first_escape.md",
     "private/armaneroshd.md",
     "public/static/icon.png.~tmp",
@@ -226,7 +227,6 @@
     "node_modules/d3-transition/README.md",
     "node_modules/d3-timer/README.md",
     "node_modules/d3-geo/README.md",
-    "node_modules/d3-force/README.md",
-    "node_modules/d3-ease/README.md"
+    "node_modules/d3-force/README.md"
   ]
 }
